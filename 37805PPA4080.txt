@@ -1,0 +1,59 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Boost control enabled
+Boost control type
+Closed loop rich > lean reversal delay
+Closed loop target lambda #1
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #3
+Cranking (seq mode) fuel direct ratio
+Cruise control enabled(Off=255,On=1)
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EVAP leak detection enabled (P0455 P0456 P0457)
+Full throttle shift enabled
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Immobilizer enabled(Off=0,On=4)
+Injector Voltage Compensation
+Knock ignition limit low #1
+Knock retard high
+Long term fuel trim maximum
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum plate deviation (P2101)
+Minimum IPW
+Misfire detection
+P0606 knock test minimum voltage
+P1009 VTC over advanced error threshold angle
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+RSSWGO45
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+Use MAP to determine WOT(Off=1,On=0)
+VTC decel fuel cut angle
+VTC I
+VTC P
+VTEC oil pressure switch enabled
+Water temperature ignition compensation hot high
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3

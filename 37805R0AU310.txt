@@ -1,0 +1,12 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Calibration ID
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Launch rpm #1
+Maximum plate deviation (P2101)
+Water temperature ignition retard

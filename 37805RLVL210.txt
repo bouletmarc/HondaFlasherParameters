@@ -1,0 +1,25 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Closed loop target lambda
+Coil test enabled (P351 P352 P353 P354)
+Cold start idle air control system (P050A, P050B)
+EPS enabled
+Idle Speed
+MAF Load Limit
+Post Start Idle Speed
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

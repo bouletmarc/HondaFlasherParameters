@@ -1,0 +1,9 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Injector Voltage Compensation
+Minimum IPW
+Speedlimiter
+VTEC Engagement

@@ -1,0 +1,46 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Calibration ID
+Cranking fuel trim
+Default PA value
+EVAP VSV error check enabled (P0498 P0499)
+Fuel economy alternator control
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Knock sensor enabled
+LAF voltage to lambda
+Maximum MAP voltage
+Minimum MAP voltage
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+PA vs MAP error enabled (P2227)
+Purge/EVAP enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #3
+Speed limiter rpm
+Throttle/brake max speed
+TPS WOT determination high
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC base duty cycle
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard

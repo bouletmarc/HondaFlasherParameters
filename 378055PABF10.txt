@@ -1,0 +1,60 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+Air temperature fuel compensation cranking
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Boost pressure reverse lookup
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Digital AFM flow
+Econ button boost (Hondata mode) enabled
+Economy Torque limit
+EGR enabled
+EGR Ignition
+ELD enabled
+High speed throttle reduction speed
+Idle speed (after start)
+Idle speed (normal)
+Immobilizer enabled(Off=0,On=6)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Initial knock control multiplier
+Knock air limit #1
+Knock air limit #2
+Knock ignition limit #1
+Knock ignition limit #2
+Lean best torque
+Long term fuel trim maximum
+Long term fuel trim minimum
+Overrun fuel cut delay
+Primary oxygen sensor enabled
+Secondary oxygen sensor enabled
+TC boost command
+TC max boost(IAT) #1
+TC max boost(IAT) #2
+TC max boost(IAT2) #1
+TC max boost(IAT2) #2
+TC max boost(IAT2) #3
+TC max boost(IAT2) #4
+TC max boost(IAT2) #5
+TC max boost(PA)
+TC maximum pressure ratio #1
+TC maximum pressure ratio #2
+Torque limit
+VTC enabled(Off=0,On=2)
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+WOT determination (mg/cyl)
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####

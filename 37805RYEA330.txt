@@ -1,0 +1,33 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Boost cut enabled
+Cranking (seq mode) fuel direct ratio
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel economy alternator control
+High speed throttle reduction speed
+Idle Speed
+Ignition IAT retard applied to ignition advance
+Knock sensor enabled
+MAF Load Limit
+Overrun throttle opening (rev hang) enabled(Off=160,On=137)
+Post Start Idle Speed
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Speedlimiter
+System control register
+Traction Control use cornering correction
+Use MAP fuel tables
+VTC WOT table enabled(Off=160,On=137)
+VTEC Engagement
+Zero VTC upon decel fuel cut(Off=9,On=9819)

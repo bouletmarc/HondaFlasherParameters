@@ -1,0 +1,91 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Maximum IAT
+Active AFM Maximum rpm
+Air temperature fuel compensation cranking
+Air temperature fuel compensation low flow
+Air temperature ignition compensation low (MAP<40 kPa)
+Boost control fixed duty
+Boost control frequency
+Boost cut pressure
+Calibration ID
+Cam angle high
+CAT readiness max AF fluctuation
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Cranking fuel trim
+Default PA value
+Driving recorder enabled(Off=9,On=35073)
+EGR enabled
+EGR flow malfunction (P0400)
+Engine oil pressure sensor enabled
+EPS enabled
+Forced induction enabled
+Idle fuel table rpm low
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Individual cylinder ignition trim
+Injector flow for fuel economy calc
+Injector phase (high load)
+Injector phase (WOT)
+Injector size
+Knock retard high
+Knock sensor enabled
+Launch recover rpm #1
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Maximum TPS
+Misfire detection
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+P0420 Malfunction Threshold
+P2263 boost problem enabled #1
+P2263 boost problem enabled #5
+PA vs MAP error enabled (P2227)
+Pit lane speed limit enabled
+Primary oxygen sensor enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+TPlate Normal
+Use MAP fuel tables
+VSA enabled
+VSA torque limiting enabled
+VTC enabled
+VTEC oil pressure switch enabled
+VTEC window pressure
+Warm up ignition retard enabled(Off=10000,On=1100)
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+Wideband lambda
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3
+Write security word #2
+Zero VTC upon decel fuel cut(Off=9,On=9819)

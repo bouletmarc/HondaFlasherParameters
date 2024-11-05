@@ -1,0 +1,132 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+AFM flow
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Calibration ID
+Closed loop derivative term
+Closed loop integral term
+Closed loop proportion term
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Cranking (seq mode) fuel direct ratio
+Cranking fuel trim
+CVNRPM speed
+Default PA value
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel economy alternator control
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector Flow #1
+Injector Flow #2
+Injector Flow #3
+Injector Flow #4
+Injector Flow #5
+Injector Flow (Large) #1
+Injector Flow (Large) #2
+Injector Flow (Large) #3
+Injector Flow (Large) #4
+Injector Flow (Large) #5
+Injector opening time
+Knock sensor enabled
+KWOT high
+KWOT low
+LAF voltage to lambda
+Launch recover rpm #2
+Launch rpm #2
+Long term fuel trim maximum
+Long term fuel trim minimum
+MAP offset(Off=0,On=6)
+MAP scalar(Off=0,On=0)
+MAP too low / too high enabled (P1127 P1128)
+MAP WOT determination pressure
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Misfire detection
+Overrev rpm
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+P1009 VTC over advanced error threshold angle
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim maximum
+Short term fuel trim minimum
+Speed limiter rpm
+Speed limiter speed #1
+Speed limiter speed #2
+Speed limiter speed #3
+Speed limiter speed
+Target VTC on decel
+Throttle/brake max rpm
+Throttle/brake max something
+Throttle/brake max speed
+TPlate Normal
+TPS WOT determination high
+TPS WOT determination low
+Use MAP to determine WOT(Off=1,On=0)
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+VTEC window pressure
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+Write security word #1
+Write security word #2
+Write security word #3

@@ -1,0 +1,29 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Calibration ID
+Default PA value
+Ignition dwell angle voltage compensation
+MAP too low / too high enabled (P1127 P1128)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+PA sensor enabled
+Rev limiter recover #1
+RSSWGO67
+Short term fuel trim minimum
+Speed limiter rpm
+Speed limiter speed
+Start emissions reduction enabled
+Target VTC on decel
+VTC enabled
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+Water temperature ignition retard

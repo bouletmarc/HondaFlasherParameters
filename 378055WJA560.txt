@@ -1,0 +1,59 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage
+AFM minimum voltage
+Auto stop/start enabled
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #5
+Cold start idle air control system (P050A, P050B)
+Default PA value
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+Ethanol ignition compensation
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle Speed
+Idle stop enabled
+Immobilizer enabled(Off=0,On=6)
+Initial knock control multiplier
+Initial knock control value
+Knock air limit #1
+Knock air limit #2
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+MAF Load Limit
+Misfire detection
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speedlimiter
+TC max boost (IAT) #1
+TC max boost (PA)
+Traction Control use cornering correction
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

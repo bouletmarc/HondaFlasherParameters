@@ -1,0 +1,16 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Cruise control enabled(Off=255,On=1)
+Ignition dwell angle voltage compensation
+Injector Voltage Compensation
+Knock sensor enabled
+Purge/EVAP enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+VSA enabled
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)

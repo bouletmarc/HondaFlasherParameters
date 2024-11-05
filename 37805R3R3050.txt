@@ -1,0 +1,44 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Calibration ID
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #3
+Default PA value
+EGR enabled
+EVAP leak detection enabled (P0455 P0456 P0457) #1
+Ignition dwell angle voltage compensation
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum ECT for alternator control
+Minimum MAP voltage
+Misfire detection
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+P1009 VTC over advanced error threshold angle
+PA vs MAP error enabled (P2227)
+Purge/EVAP enabled
+Rev limiter #1
+Rev limiter recover #1
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim minimum
+TPlate Normal (US)
+Use MAP to determine WOT(Off=1,On=0)
+VTC enabled
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+Water temperature ignition retard

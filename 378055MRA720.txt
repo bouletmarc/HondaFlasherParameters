@@ -1,0 +1,11 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+ELD enabled
+Forced induction enabled
+Knock sensor enabled
+Purge/EVAP enabled
+VTEC oil pressure switch enabled

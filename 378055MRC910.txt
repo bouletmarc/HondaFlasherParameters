@@ -1,0 +1,26 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Closed loop target lambda
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+Idle Speed
+MAF Load Limit
+MAP too low / too high enabled (P1127 P1128)
+Mass or volume circuit range performance problem enabled (P0101)
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Secondary oxygen sensor enabled
+Speedlimiter
+VTC enabled
+VTEC Engagement

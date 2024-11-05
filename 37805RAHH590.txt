@@ -1,0 +1,75 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active fuel tuning enabled
+AFM enabled
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Boost control frequency S2000
+Boost control frequency
+Change per tuning cyle
+Closed loop target lambda high load
+Closed loop target lambda low load
+Coil test enabled (P351 P352 P353 P354)
+Coolant thermostat temperature check enabled (P0128) #3
+Coolant thermostat temperature check enabled (P0128)
+Default PA value
+Delay after injector re-start
+EGR enabled
+Ethanol input enabled(Off=0,On=15)
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+Idle fuel table rpm low
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Injector flow for fuel economy calc index
+Injector phase (high load)
+Injector phase (VTC compensation)
+Injector phase (WOT)
+Knock retard high
+Knock retard low
+Knock sensitivity high
+Knock sensitivity low
+Knock sensor enabled
+Maximum load delta
+Maximum plate deviation (P2101)
+Minimum lambda
+Misfire detection
+OBDII mode 9 support(Off=0,On=255)
+P2263 boost problem enabled #1
+PA vs MAP error enabled (P2227)
+Pit lane speed limit enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+RSSWGO45
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Target throttle plate
+TPlate Normal
+Use fuel trims
+VSA enabled
+VTEC oil pressure switch enabled
+Water temperature ignition compensation cold high
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+Zero VTC upon decel fuel cut(Off=9,On=9819)

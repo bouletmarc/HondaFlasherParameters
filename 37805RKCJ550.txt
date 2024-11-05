@@ -1,0 +1,46 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Calibration ID
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+Idle fuel table rpm low
+Idle speed (after start)
+Ignition dwell angle voltage compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock sensitivity high
+Knock sensitivity low
+KWOT high
+KWOT low
+Maximum plate deviation (P2101)
+OBDII mode 6 support(Off=0,On=255)
+OBDII mode 9 support(Off=0,On=255)
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC oil pressure switch enabled
+Water temperature ignition compensation hot high
+WOT lambda adjustment high #1
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

@@ -1,0 +1,89 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Cranking fuel trim
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+High speed throttle reduction speed
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+MAF Load Limit
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Secondary oxygen sensor enabled
+Speedlimiter
+Target throttle plate
+Throttle index calculation
+TPS WOT determination high
+TPS WOT determination low
+Under boost error (P0299)
+Unknown DTC sensor #1 enabled
+Unknown DTC sensor #10 enabled
+Unknown DTC sensor #11 enabled
+Unknown DTC sensor #12 enabled
+Unknown DTC sensor #13 enabled
+Unknown DTC sensor #14 enabled
+Unknown DTC sensor #15 enabled
+Unknown DTC sensor #16 enabled
+Unknown DTC sensor #17 enabled
+Unknown DTC sensor #18 enabled
+Unknown DTC sensor #19 enabled
+Unknown DTC sensor #2 enabled
+Unknown DTC sensor #20 enabled
+Unknown DTC sensor #21 enabled
+Unknown DTC sensor #22 enabled
+Unknown DTC sensor #23 enabled
+Unknown DTC sensor #24 enabled
+Unknown DTC sensor #25 enabled
+Unknown DTC sensor #26 enabled
+Unknown DTC sensor #27 enabled
+Unknown DTC sensor #28 enabled
+Unknown DTC sensor #29 enabled
+Unknown DTC sensor #3 enabled
+Unknown DTC sensor #30 enabled
+Unknown DTC sensor #4 enabled
+Unknown DTC sensor #5 enabled
+Unknown DTC sensor #6 enabled
+Unknown DTC sensor #7 enabled
+Unknown DTC sensor #8 enabled
+Unknown DTC sensor #9 enabled
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

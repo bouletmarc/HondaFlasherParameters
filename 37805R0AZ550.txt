@@ -1,0 +1,11 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM minimum voltage
+Default PA value
+Ignition dwell angle voltage compensation
+Maximum MAP voltage
+Minimum MAP voltage

@@ -1,0 +1,61 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Boost control fixed duty
+Calibration ID
+Cam angle high
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Coolant thermostat temperature check enabled (P0128)
+Cranking fuel trim
+Default PA value
+EGR enabled
+ELD enabled
+EPS enabled
+EVAP leak detection enabled (P0455 P0456 P0457)
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Injector opening time
+Knock retard high
+Knock sensitivity high
+Knock sensor enabled
+MAP WOT determination pressure
+Maximum plate deviation (P2101)
+Misfire detection
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+Overrun throttle opening (rev hang) enabled(Off=160,On=137)
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+RSSWGO67
+RSSWGOF121 Fuel level sensor error
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+SWINJOK
+SWM9VINOUT
+System control register 1
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+VSA enabled
+VTC base duty cycle
+Water temperature ignition compensation cold low
+Water temperature ignition retard
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3
+Zero VTC upon decel fuel cut(Off=9,On=9819)

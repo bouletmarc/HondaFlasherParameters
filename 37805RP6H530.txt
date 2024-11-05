@@ -1,0 +1,173 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Change per tuning cyle
+Active AFM Delay after injector re-start
+Active AFM Maximum load
+Active AFM Minimum lambda
+Active fuel tuning enabled
+Active fuel tuning high #1
+Active fuel tuning high #2
+Active fuel tuning high #3
+Active fuel tuning high #4
+Active fuel tuning high #5
+Active fuel tuning low #1
+Active fuel tuning low #2
+Active fuel tuning low #3
+Active fuel tuning low #4
+Active fuel tuning low #5
+Active knock retard enabled
+Active knock retard high
+Active knock retard low
+Active knock retard max retard
+Active knock retard method
+Active knock retard min
+Active knock retard step
+AFM fuel
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Boost control activation pressure
+Boost control air temperature compensation
+Boost control duty lookup
+Boost control duty to pressure
+Boost control enabled
+Boost control fixed duty
+Boost control frequency
+Boost control max duty
+Boost control quick spool
+Boost control solenoid is normally open
+Boost control type
+Boost cut enabled
+Boost cut pressure
+Calibration ID
+Cam angle high
+Cam angle low
+Change per tuning cyle
+Closed loop target lambda
+Cranking fuel trim
+Delay after engine start
+Delay after injector re-start
+Driving recorder enabled(Off=35127,On=54814)
+Ethanol ECT cranking compensation
+Ethanol fuel compensation
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled(Off=0,On=60)
+Ethanol percentage
+Flash check engine for knock enabled
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+Fuel Pressure
+Gear ignition compensation
+Idle speed (after start)
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Injector size
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high #1
+Knock sensitivity high #2
+Knock sensitivity high cylinder 1-2
+Knock sensitivity high cylinder 3-4
+Knock sensitivity high
+Knock sensitivity low #1
+Knock sensitivity low #2
+Knock sensitivity low cylinder 1-2
+Knock sensitivity low cylinder 3-4
+Knock sensitivity low
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+MAP offset
+MAP scalar
+Maximum cam angle delta
+Maximum change
+Maximum ECT
+Maximum gear
+Maximum IAT
+Maximum lambda
+Maximum load delta
+Maximum load
+Maximum rpm delta
+Maximum rpm
+Maximum TPS
+Maximum VTC
+Minimum ECT for alternator control
+Minimum gear
+Minimum IAT
+Minimum lambda
+Minimum load
+Minimum pressure for speed/density
+Minimum rpm
+Minimum TPS
+Minimum VTC
+Open loop
+Overall fuel trim
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Second ECT sensor enabled
+Secondary oxygen sensor enabled(Off=0,On=2)
+Speed limiter rpm
+Start emissions reduction enabled
+Target lambda high
+Target lambda low
+Traction Control ignition retard value
+Traction control input(Off=0,On=4)
+Traction control input(Off=0,On=52)
+Traction control minimum rpm
+Traction control voltage offset
+Tuning method
+Update frequency
+Use corrected wideband
+Use fuel trims
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VTC WOT table enabled(Off=160,On=141)
+Water temperature ignition retard
+Wideband input(Off=0,On=12)
+Wideband input(Off=0,On=14)
+Wideband input(Off=0,On=52)
+Wideband lambda
+Wideband voltage offset
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

@@ -1,0 +1,77 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+AFM maximum voltage
+AFM minimum voltage
+Calibration ID
+CC gear ratio 1
+CC gear ratio 2
+Default PA value
+EGR enabled
+EVAP leak detection enabled (P0457)
+Fuel economy alternator control
+Idle speed (after start)
+Idle speed (normal)
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder ignition trim
+Injector Voltage Compensation
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+MAP offset(Off=0,On=6)
+MAP scalar(Off=0,On=0)
+MAP WOT determination pressure
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum air temperature for alternator control
+Minimum ECT for alternator control
+Minimum MAP voltage
+Minimum throttle opening compensation
+Misfire detection
+P1009 VTC over advanced error threshold angle
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Proportion for PID
+Radiator fan off
+Radiator fan on
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speed adjustment (ECU)
+Speed limiter rpm
+Speed limiter speed
+Throttle/brake max something
+Throttle/brake max speed
+TPlate Normal
+VTC base duty cycle
+VTC enabled
+VTEC oil pressure switch enabled
+Write security word #1
+Write security word #2
+Write security word #3

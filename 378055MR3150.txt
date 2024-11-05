@@ -1,0 +1,24 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+EVAP leak detection enabled (P0455 P0456 P0457) #1
+Idle Speed
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Misfire detection
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+VTEC Engagement

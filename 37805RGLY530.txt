@@ -1,0 +1,97 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Maximum gear
+Active fuel tuning enabled
+AFM enabled
+AFMPLS disengage rpm low
+Air temperature fuel compensation cranking
+Air temperature fuel compensation low flow
+Calibration ID
+Change per tuning cyle
+Closed loop target lambda #1
+Closed loop target lambda high load
+Closed loop target lambda limit
+Cold start idle air control system (P050A, P050B)
+Delay after injector re-start
+Delay in lambda reading
+EGR enabled
+Engine oil pressure sensor enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+Idle fuel table rpm low
+Idle speed (after start)
+Idle Speed
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0,On=4)
+Injector Voltage Compensation
+Knock ignition limit high #2
+Knock retard high
+Knock sensor enabled
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Long term fuel trim minimum
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum gear
+Maximum load delta
+Maximum load
+Maximum rpm
+Maximum TPS
+Minimum IPW
+Misfire detection
+OBD region (0
+Overrev rpm
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+RSSWGO45
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Secondary oxygen sensor heater enabled(Off=32767,On=50)
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+SWM9VINOUT
+Use fuel trims
+VSA enabled
+VTC base duty cycle
+VTC decel fuel cut angle
+VTC enabled
+VTEC oil pressure switch enabled
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3

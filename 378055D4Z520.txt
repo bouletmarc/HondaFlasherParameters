@@ -1,0 +1,51 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Calibration ID
+Default PA value
+ELD enabled
+EVAP leak detection enabled (P0455 P0456 P0457)
+Fuel direct ratio hi
+Fuel direct ratio lo
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Launch recover rpm #2
+Maximum MAP voltage
+Minimum MAP voltage
+Misfire detection
+PA sensor enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #3
+Rev limiter recover #1
+Rev limiter recover #2
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed #1
+Speed limiter speed #2
+Speed limiter speed #3
+Speed limiter speed
+Throttle/brake max speed
+TPlate Normal
+TPS WOT determination high
+Use MAP to determine WOT(Off=1,On=0)
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+VTEC rpm window
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard

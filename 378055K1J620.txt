@@ -1,0 +1,229 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+Air temperature fuel compensation cranking
+Calibration ID
+Closed loop derivative term
+Closed loop integral term
+Closed loop proportion term
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128)
+Coolant thermostat temperature check enabled(P0128)
+Cruise control enabled(Off= 255, On= 16)
+Default PA value
+EGR enabled
+EGR flow malfunction (P0400)
+EPS enabled
+EVAP FTP enabled(P0451 P0452 P0453 P1454) (RSSWGO91)
+EVAP leak detection enabled(P0455 P0456 P0457)
+EVAP VSV error check enabled(P0498 P0499)
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Injector Flow #1
+Knock sensor enabled
+MAP too low / too high enabled(P1127 P1128)
+Mass or volume circuit range performance problem enabled (P0101)
+Mass or volume circuit range performance problem enabled(P0101)
+Maximum MAP voltage
+Minimum MAP voltage
+Misfire detection
+OBD MODE $01 PID $1C value | RSOBDREQ
+P2263 boost problem enabled #1
+P2263 boost problem enabled #2
+P2263 boost problem enabled #3
+P2263 boost problem enabled #4
+P2263 boost problem enabled #5
+PA vs MAP error enabled(P2227)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+RSFIECUID5
+RSSWENGOILLIFE
+RSSWGO00AB
+RSSWGO13C
+RSSWGO14B
+RSSWGO45
+RSSWGO48S
+RSSWGO61AC
+RSSWGO61E
+RSSWGO63BL
+RSSWGO63BR
+RSSWGO63D
+RSSWGO67
+RSSWGOF121 Fuel level sensor error
+Short term fuel trim minimum
+Start emissions reduction enabled
+Target VTC on decel
+Unknown DTC sensor #100 enabled
+Unknown DTC sensor #101 enabled
+Unknown DTC sensor #102 enabled
+Unknown DTC sensor #103 enabled
+Unknown DTC sensor #104 enabled
+Unknown DTC sensor #105 enabled
+Unknown DTC sensor #106 enabled
+Unknown DTC sensor #107 enabled
+Unknown DTC sensor #108 enabled
+Unknown DTC sensor #109 enabled
+Unknown DTC sensor #110 enabled
+Unknown DTC sensor #111 enabled
+Unknown DTC sensor #112 enabled
+Unknown DTC sensor #113 enabled
+Unknown DTC sensor #114 enabled
+Unknown DTC sensor #115 enabled
+Unknown DTC sensor #116 enabled
+Unknown DTC sensor #117 enabled
+Unknown DTC sensor #118 enabled
+Unknown DTC sensor #119 enabled
+Unknown DTC sensor #120 enabled
+Unknown DTC sensor #121 enabled
+Unknown DTC sensor #122 enabled
+Unknown DTC sensor #123 enabled
+Unknown DTC sensor #124 enabled
+Unknown DTC sensor #125 enabled
+Unknown DTC sensor #126 enabled
+Unknown DTC sensor #127 enabled
+Unknown DTC sensor #128 enabled
+Unknown DTC sensor #129 enabled
+Unknown DTC sensor #130 enabled
+Unknown DTC sensor #131 enabled
+Unknown DTC sensor #132 enabled
+Unknown DTC sensor #133 enabled
+Unknown DTC sensor #134 enabled
+Unknown DTC sensor #135 enabled
+Unknown DTC sensor #136 enabled
+Unknown DTC sensor #137 enabled
+Unknown DTC sensor #138 enabled
+Unknown DTC sensor #139 enabled
+Unknown DTC sensor #140 enabled
+Unknown DTC sensor #141 enabled
+Unknown DTC sensor #142 enabled
+Unknown DTC sensor #143 enabled
+Unknown DTC sensor #144 enabled
+Unknown DTC sensor #145 enabled
+Unknown DTC sensor #146 enabled
+Unknown DTC sensor #147 enabled
+Unknown DTC sensor #148 enabled
+Unknown DTC sensor #149 enabled
+Unknown DTC sensor #150 enabled
+Unknown DTC sensor #151 enabled
+Unknown DTC sensor #152 enabled
+Unknown DTC sensor #153 enabled
+Unknown DTC sensor #154 enabled
+Unknown DTC sensor #155 enabled
+Unknown DTC sensor #156 enabled
+Unknown DTC sensor #157 enabled
+Unknown DTC sensor #158 enabled
+Unknown DTC sensor #159 enabled
+Unknown DTC sensor #16 enabled
+Unknown DTC sensor #160 enabled
+Unknown DTC sensor #161 enabled
+Unknown DTC sensor #162 enabled
+Unknown DTC sensor #163 enabled
+Unknown DTC sensor #164 enabled
+Unknown DTC sensor #165 enabled
+Unknown DTC sensor #166 enabled
+Unknown DTC sensor #167 enabled
+Unknown DTC sensor #168 enabled
+Unknown DTC sensor #169 enabled
+Unknown DTC sensor #17 enabled
+Unknown DTC sensor #170 enabled
+Unknown DTC sensor #171 enabled
+Unknown DTC sensor #172 enabled
+Unknown DTC sensor #173 enabled
+Unknown DTC sensor #174 enabled
+Unknown DTC sensor #175 enabled
+Unknown DTC sensor #176 enabled
+Unknown DTC sensor #177 enabled
+Unknown DTC sensor #178 enabled
+Unknown DTC sensor #179 enabled
+Unknown DTC sensor #180 enabled
+Unknown DTC sensor #181 enabled
+Unknown DTC sensor #182 enabled
+Unknown DTC sensor #183 enabled
+Unknown DTC sensor #184 enabled
+Unknown DTC sensor #185 enabled
+Unknown DTC sensor #186 enabled
+Unknown DTC sensor #187 enabled
+Unknown DTC sensor #188 enabled
+Unknown DTC sensor #189 enabled
+Unknown DTC sensor #19 enabled
+Unknown DTC sensor #190 enabled
+Unknown DTC sensor #191 enabled
+Unknown DTC sensor #192 enabled
+Unknown DTC sensor #193 enabled
+Unknown DTC sensor #20 enabled
+Unknown DTC sensor #23 enabled
+Unknown DTC sensor #25 enabled
+Unknown DTC sensor #26 enabled
+Unknown DTC sensor #27 enabled
+Unknown DTC sensor #28 enabled
+Unknown DTC sensor #29 enabled
+Unknown DTC sensor #3 enabled
+Unknown DTC sensor #30 enabled
+Unknown DTC sensor #37 enabled
+Unknown DTC sensor #38 enabled
+Unknown DTC sensor #39 enabled
+Unknown DTC sensor #42 enabled
+Unknown DTC sensor #43 enabled
+Unknown DTC sensor #44 enabled
+Unknown DTC sensor #47 enabled
+Unknown DTC sensor #48 enabled
+Unknown DTC sensor #49 enabled
+Unknown DTC sensor #50 enabled
+Unknown DTC sensor #51 enabled
+Unknown DTC sensor #52 enabled
+Unknown DTC sensor #53 enabled
+Unknown DTC sensor #54 enabled
+Unknown DTC sensor #55 enabled
+Unknown DTC sensor #56 enabled
+Unknown DTC sensor #57 enabled
+Unknown DTC sensor #58 enabled
+Unknown DTC sensor #59 enabled
+Unknown DTC sensor #60 enabled
+Unknown DTC sensor #62 enabled
+Unknown DTC sensor #64 enabled
+Unknown DTC sensor #66 enabled
+Unknown DTC sensor #67 enabled
+Unknown DTC sensor #68 enabled
+Unknown DTC sensor #69 enabled
+Unknown DTC sensor #70 enabled
+Unknown DTC sensor #71 enabled
+Unknown DTC sensor #72 enabled
+Unknown DTC sensor #73 enabled
+Unknown DTC sensor #74 enabled
+Unknown DTC sensor #75 enabled
+Unknown DTC sensor #76 enabled
+Unknown DTC sensor #77 enabled
+Unknown DTC sensor #78 enabled
+Unknown DTC sensor #79 enabled
+Unknown DTC sensor #80 enabled
+Unknown DTC sensor #81 enabled
+Unknown DTC sensor #82 enabled
+Unknown DTC sensor #83 enabled
+Unknown DTC sensor #84 enabled
+Unknown DTC sensor #85 enabled
+Unknown DTC sensor #86 enabled
+Unknown DTC sensor #87 enabled
+Unknown DTC sensor #88 enabled
+Unknown DTC sensor #89 enabled
+Unknown DTC sensor #90 enabled
+Unknown DTC sensor #91 enabled
+Unknown DTC sensor #92 enabled
+Unknown DTC sensor #93 enabled
+Unknown DTC sensor #94 enabled
+Unknown DTC sensor #95 enabled
+Unknown DTC sensor #96 enabled
+Unknown DTC sensor #97 enabled
+Unknown DTC sensor #98 enabled
+Unknown DTC sensor #99 enabled
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC disengage minimum speed
+VTEC engage minimum speed
+Water temperature fuel compensation high
+Water temperature fuel compensation low

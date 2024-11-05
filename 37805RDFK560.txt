@@ -1,0 +1,69 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+Air temperature fuel compensation cranking
+Anti-lag enabled
+Boost pressure reverse lookup
+CAIN angle map
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda low load
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128)
+Cranking fuel pressure
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+Engine oil level enabled
+EPS enabled
+EVAP leak detection enabled (P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Full throttle shift enabled
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Immobilizer enabled(Off=0,On=3)
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock sensor enabled
+MAP too low / too high enabled (P1127 P1128)
+Maximum plate deviation (P2101)
+Misfire detection
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled(Off=0,On=2)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+RSSWGO45
+RSSWGO63BR
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Target RPM (no load) for throttle
+TC boost command
+TC max boost (IAT) #1
+TC max boost (PA)
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+UNKNOWN_A977
+Use fuel trims
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC oil pressure switch enabled
+WOT lambda adjustment #1

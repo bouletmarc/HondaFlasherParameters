@@ -1,0 +1,193 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+AFM correction WOT
+AFM correction
+AFM flow
+AFM maximum voltage enabled(Off=2047,On=1014)
+After start fuel (split injection)
+After start fuel
+Air filter pressure drop
+Anti lag enabled
+Anti lag fuel cut rpm
+Anti lag ignition cut rpm
+Anti lag ignition target
+Anti lag retard rpm
+Anti lag target load
+Auto stop/start enabled
+Boost by ethanol limit
+Catalyst maximum temperature
+Catalyst protection temperature
+Catalytic efficiency error enabled (P0420)(Off=65535,On=0)
+CCP active
+CCP station address
+Delay for high pressure fuel pump limitation
+Demanded engine speed during high temperature
+DTC disable
+ECT2 enabled
+Engine speed limit at high engine temperature
+Engine speed limit for automatic transmission at fault of vehicle speed signal
+Ethanol fuel adjustment (ECT)
+Ethanol fuel adjustment (number of injections)
+Ethanol fuel multiplier
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled
+Ethanol percentage
+Exhaust cam (cold)
+Exhaust cam (spool cold)
+Exhaust cam (spool)
+Exhaust cam (VTEC cold)
+Exhaust cam (VTEC)
+Exhaust cam
+Exhaust maximum temperature
+Fuel pressure (idle)
+Fuel pressure (normal)
+Fuel pressure (split injection)
+Fuel pump compensation by rpm and duty
+Fuel pump minimum current
+Full throttle shift enabled
+Full throttle shift ignition cut rpm
+Full throttle shift ignition retard rpm
+Full throttle shift ignition target
+Full throttle shift minimum throttle
+Full throttle shift rpm limit
+Full throttle target load
+High pressure fuel pump max flow
+Higher engine speed limit at function request from customer service
+HLSDem_nMaxHiSprt_CUR
+HLSDem_nMaxHiTipp_CUR
+HLSDem_nMaxStd_CUR
+HLSDem_nMaxStdSprt_CUR
+HLSDem_nMaxStdTipp_CUR
+HPFP delay (battery voltage)
+HPFP feed forward gain
+HPFP feed forward offset
+HPFP integrator (delta pressure)
+HPFP integrator (rpm)
+HPFP proportional (delta pressure)
+HPFP proportional (rpm)
+Idle speed
+Ignition (ex cam +)
+Ignition (in cam -) (ex cam +)
+Ignition (in cam -)
+Ignition (in cam +)
+Ignition (VTEC) (ex cam +)
+Ignition (VTEC) (in cam -) (ex cam +)
+Ignition (VTEC) (in cam -)
+Ignition (VTEC) (in cam +)
+Immobilizer enabled
+Individual cylinder fuel trim
+Injector phase (SOI)
+Injector size
+Intake cam (cold)
+Intake cam (spool cold)
+Intake cam (spool)
+Intake cam (VTEC) (cold)
+Intake cam (VTEC)
+Intake cam
+Intercooler pressure drop
+KFHATSTS
+Knock retard step
+Knock window cylinder 1
+Knock window cylinder 2
+Knock window cylinder 3
+Knock window cylinder 4
+KRKATE
+Launch rpm
+Launch to full throttle shift transition speed
+Mass or volume circuit range performance problem enabled (P0101)(Off=65535,On=0)
+Max engine speed limit at high oil temperature
+Max engine speed limitation request from Electrical Supply System
+Maximum air charge reduction for component protection
+Maximum boost pressure #1
+Maximum boost pressure #2
+Maximum boost pressure #3
+Maximum boost pressure
+Maximum cam overlap
+Maximum charge pipe pressure
+Maximum fuel pressure
+Maximum manifold pressure
+Maximum permissible engine speed (short increase)
+Maximum rpm for DTC clear
+Maximum TC pressure ratio #1
+Maximum TC pressure ratio #2
+Maximum TC pressure ratio
+Min ECT for throttle learning
+Min IAT for throttle learning
+Minimum fuel pressure
+Minimum lambda (cat protect)
+Mode 23 read command enabled
+Nominal charge
+Optimum torque
+Overall fuel trim(Off=0,On=2813)
+P0136 O2 sensor circuit malfunction error enabled(Off=65535,On=0)
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0) #1
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0) #2
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0) #3
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0) #4
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0) #5
+P0141 secondary 02 heater malfunction enabled(Off=65535,On=0)
+P2263 boost problem enabled(Off=65535,On=0) #1
+P2263 boost problem enabled(Off=65535,On=0) #2
+P2263 boost problem enabled(Off=65535,On=0)
+Radiator fan (high speed) off
+Radiator fan (high speed) on
+Radiator fan (low speed) off
+Radiator fan (low speed) on
+Reduced current maximum rpm
+Requested torque gear 1 (normal mode)
+Requested torque gear 1 (R mode)
+Requested torque gear 2 (normal mode)
+Requested torque gear 2 (R mode)
+Requested torque gear 3 (normal mode)
+Requested torque gear 3 (R mode)
+Requested torque gear 4 (normal mode)
+Requested torque gear 4 (R mode)
+Requested torque gear 5 (normal mode)
+Requested torque gear 5 (R mode)
+Requested torque gear 6 (normal mode)
+Requested torque gear 6 (R mode)
+Rev limiter (gear / ECT)
+Secondary oxygen sensor enabled
+seg1_hash
+seg2_hash
+Solenoid hold current
+Speed adjustment(Off=0,On=990)
+Speed limiter speed
+Split injection enabled(Off=1,On=65)
+Target lambda (cat protect)
+Target lambda (VTEC) (cat protect)
+Threshold for fuel pump air charge limit
+Threshold for maximum speed fault detection
+Torque limit #1
+Torque limit #2
+Torque limit
+Traction Control change rate (decreasing)
+Traction Control change rate (increasing)
+Traction Control cornering comp value
+Traction Control D gain
+Traction Control D smoothing
+Traction Control enabled
+Traction Control I gain
+Traction Control ignition retard value
+Traction Control launch slip value
+Traction Control minimum speed
+Traction Control P gain
+Traction Control target slip
+Traction Control use cornering correction
+Traction Control use PID
+Turbo max air charge
+Turbo max ratio (PA) comp (IAT2)
+Turbo max ratio (PA)
+Turbo max ratio (temp)
+Turbocharger maximum temperature
+Use second coolant temperature sensor for fan control(Off=0,On=9206)
+Use second coolant temperature sensor for fan control(Off=32,On=26)
+VE correction WOT
+VE correction
+VTEC
+Warm up fuel (split injection)
+Warm up fuel
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####

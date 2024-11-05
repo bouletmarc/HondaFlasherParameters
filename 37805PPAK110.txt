@@ -1,0 +1,61 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+Boost control fixed duty
+Closed loop rich > lean reversal delay
+Closed loop target lambda #1
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Coil test enabled (P351 P352 P353 P354)
+Coolant thermostat temperature check enabled (P0128)
+Cruise control enabled(Off=255,On=1)
+Driving recorder enabled(Off=9,On=35073)
+EGR enabled
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+Forced induction enabled
+High speed throttle reduction
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Injector Voltage Compensation
+Knock retard high
+Knock sensor enabled
+Long term fuel trim maximum
+MAF Load Limit
+Maximum ECT
+Maximum IAT
+Maximum plate deviation (P2101)
+Maximum VTC
+Minimum IPW
+OBDII mode 9 support(Off=0,On=255)
+P2263 boost problem enabled #2
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+RSSWGO00AB
+RSSWGO45
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+SWM9VINOUT
+VSA enabled
+VTC base duty cycle
+VTEC oil pressure switch enabled
+Water temperature ignition compensation hot high
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3

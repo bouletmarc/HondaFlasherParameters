@@ -1,0 +1,48 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Boost cut enabled
+Boost pressure reverse lookup
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda low load
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+Idle speed (normal)
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+KWOT high
+KWOT low
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Overrun cutoff MAP high cam hys high
+Overrun cutoff MAP high cam hys low
+Overrun cutoff MAP low cam hys high
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Secondary oxygen sensor enabled
+TC max boost (IAT) #1
+TC max boost (PA)
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC oil pressure switch enabled
+WOT lambda adjustment high #1
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

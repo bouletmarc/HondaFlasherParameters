@@ -1,0 +1,48 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Anti lag enabled
+Coolant thermostat temperature check enabled (P0128) #2
+Coolant thermostat temperature check enabled (P0128)
+EGR enabled
+ELD enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Full throttle shift enabled
+Idle Speed
+Idle stop enabled
+Intake air system leak (P2279)
+Knock sensor enabled
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum gear
+Misfire detection
+Open loop
+P2263 boost problem enabled #1
+P2263 boost problem enabled #3
+P2263 boost problem enabled #5
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Rolling anti lag enabled
+Rolling anti-lag enabled
+Second ECT sensor enabled
+Speedlimiter
+Traction Control enabled
+Traction Control use cornering correction
+Use AFM to determine WOT(Off=1,On=0)
+Use fuel trims
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

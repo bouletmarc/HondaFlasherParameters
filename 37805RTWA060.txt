@@ -1,0 +1,140 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+AFM enabled
+AFM flow
+AFM fuel
+AFM malfunction threshold
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Air temperature fuel compensation
+Boost cut enabled
+Boost cut pressure
+Boost pressure reverse lookup
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Cold start idle air control system (P050A, P050B)
+Cranking (batch mode) fuel direct ratio
+Cranking (batch mode) wall deposit ratio
+Cranking (seq mode) fuel direct ratio
+Cranking (seq mode) wall deposit ratio
+Cranking fuel trim
+Cranking fuel
+Default PA value
+Economy Torque limit
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Fuel (B) direct ratio hi
+Fuel (B) direct ratio lo
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel high
+Fuel low
+Fuel Pressure
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high
+Ignition low
+Ignition retard gear compensation
+IMA torque request high
+IMA torque request low
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector flow for fuel economy calc index
+Injector flow for fuel economy calc
+Injector opening time
+Injector size
+Knock ignition limit high
+Knock ignition limit low
+Knock retard high
+Knock retard low
+Knock sensitivity high
+Knock sensitivity low
+LAF voltage to lambda
+Launch recover rpm
+Launch rpm disengage speed
+Launch rpm
+Long term fuel trim maximum
+Long term fuel trim minimum
+MAP offset
+MAP scalar high byte
+MAP scalar low byte
+MAP WOT determination pressure
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Minimum MAP voltage
+Minimum pressure for speed/density
+Misfire detection
+OBDII mode 9 support
+Overall fuel trim
+Overrev rpm
+Overrun fuel cut delay
+P0606 knock test minimum voltage
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover
+Rev limiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim maximum
+Short term fuel trim minimum
+Speed limiter rpm
+Speed limiter speed
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+TPlate Economy
+TPlate Normal
+TPlate Sport
+TPS WOT determination high
+TPS WOT determination low
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC oil pressure switch enabled
+VTEC rpm window
+VTEC window pressure
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+WOT determination (mg/cyl)
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment high
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+WOT lambda adjustment low
+Write security word #1
+Write security word #2
+Write security word #3
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####

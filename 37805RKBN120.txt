@@ -1,0 +1,56 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active knock retard step
+AFM enabled
+AFMPLS disengage rpm low
+Air temperature fuel compensation low flow
+Calibration ID
+Closed loop target lambda limit
+Coil test enabled (P351 P352 P353 P354)
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128)
+Default PA value
+EGR enabled
+Engine oil pressure sensor enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Flash alternator light when TC active
+Flash check engine for knock enabled
+Flash check engine for TC
+Forced induction enabled
+Idle speed (after start)
+Ignition dwell angle
+Knock ignition limit high #2
+Knock sensor enabled
+Long term fuel trim maximum
+Misfire detection
+P0420 Malfunction Threshold
+P2263 boost problem enabled #5
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+RSSWGO67
+RSSWGOF121 Fuel level sensor error
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Start emissions reduction enabled
+SWM9VINOUT
+VSA enabled
+VTC enabled
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+VTEC window pressure
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3

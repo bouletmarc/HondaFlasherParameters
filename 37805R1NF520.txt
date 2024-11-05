@@ -1,0 +1,95 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+AFM flow
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Calibration ID
+Coil test enabled (P351 P352 P353 P354)
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #3
+Cranking fuel trim
+CVNRPM speed
+Default PA value
+Derivative for PID
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector Flow #1
+Injector Flow #2
+Injector Flow #3
+Injector Flow #4
+Injector Flow #5
+Injector Flow (Large) #1
+Injector Flow (Large) #2
+Injector Flow (Large) #3
+Injector Flow (Large) #4
+Injector Flow (Large) #5
+Injector opening time
+Knock sensor enabled
+KWOT high
+KWOT low
+LAF voltage to lambda
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Misfire detection
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+PA sensor enabled
+Primary oxygen sensor enabled
+Proportion for PID
+Purge/EVAP enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #1
+Rev limiter #3
+Rev limiter recover #1
+RSSWGO67
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed #1
+Speed limiter speed #2
+Speed limiter speed #3
+Speed limiter speed
+Target VTC on decel
+Throttle/brake max rpm
+Throttle/brake max something
+Throttle/brake max speed
+TPlate Normal
+TPS WOT determination high
+Use MAP to determine WOT(Off=1,On=0)
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+Write security word #1
+Write security word #2
+Write security word #3

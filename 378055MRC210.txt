@@ -1,0 +1,23 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Coil test enabled (P351 P352 P353 P354)
+ELD enabled
+Idle Speed
+MAF Load Limit
+MAP too low / too high enabled (P1127 P1128)
+Mass or volume circuit range performance problem enabled (P0101)
+Misfire detection
+Post Start Idle Speed
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+VTEC Engagement

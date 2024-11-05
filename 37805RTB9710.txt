@@ -1,0 +1,55 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM minimum voltage
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Calibration ID
+Closed loop rich > lean reversal delay
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Default PA value
+EGR enabled
+EGR flow malfunction (P0400)
+EVAP leak detection enabled (P0455 P0456 P0457)
+Ignition dwell angle voltage compensation
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Knock retard low
+Knock sensitivity high
+Knock sensitivity low
+KWOT high
+KWOT low
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+System control register
+Target throttle plate
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+TPlate Normal
+VTC P
+VTEC oil pressure switch enabled
+Water temperature ignition compensation cold high
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+WOT lambda adjustment high #1
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

@@ -1,0 +1,110 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Maximum ECT
+Active AFM Maximum IAT
+Active AFM Maximum rpm
+Active AFM Maximum VTC
+Active knock retard step
+AFM enabled
+AFM fuel
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Boost cut enabled
+Boost cut pressure
+Calibration ID
+Cam angle high
+Cam angle low
+Coil test enabled (P351 P352 P353 P354)
+Cranking fuel trim
+Driving recorder enabled(Off=35127,On=54814)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP VSV error check enabled (P0498 P0499)
+Flash alternator light when TC active
+Flash check engine for knock enabled
+Flash check engine for TC
+Forced induction enabled
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+Fuel Pressure
+Idle Speed
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Injector size
+Injector Voltage Compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high #1
+Knock sensitivity high #2
+Knock sensitivity high
+Knock sensitivity low #1
+Knock sensitivity low #2
+Knock sensitivity low
+Knock sensor enabled
+Launch rpm #1
+MAP too low / too high enabled (P1127 P1128)
+Minimum IPW
+Minimum pressure for speed/density
+Misfire detection
+Overall fuel trim
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+RSSWGO67
+Start emissions reduction enabled
+TPlate Normal
+Traction Control ignition retard value
+Traction control input(Off=0,On=4)
+Traction control minimum rpm
+Traction control voltage offset
+Use MAP fuel tables
+VTC WOT table enabled(Off=160,On=141)
+Water temperature ignition retard
+Wideband input(Off=0,On=12)
+Wideband lambda
+Wideband voltage offset
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

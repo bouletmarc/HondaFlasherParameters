@@ -1,0 +1,34 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Calibration ID
+Closed loop target lambda
+Coil test enabled (P351 P352 P353 P354)
+Default PA value
+Ignition dwell angle voltage compensation
+Immobilizer enabled(Off=0,On=4)
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Short term fuel trim minimum
+Use MAP to determine WOT(Off=1,On=0)
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature

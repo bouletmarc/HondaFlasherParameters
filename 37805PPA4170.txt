@@ -1,0 +1,62 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFMPLS disengage rpm low
+Closed loop rich > lean reversal delay
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Coolant thermostat temperature check enabled (P0128)
+Cranking (seq mode) fuel direct ratio
+Cruise control enabled(Off=255,On=1)
+EGR enabled
+ELD enabled
+EPS enabled
+EVAP leak detection enabled (P0455 P0456 P0457)
+Flash alternator light when TC active
+Flash check engine for knock enabled
+Flash check engine for TC
+Fuel Pressure
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Injector Voltage Compensation
+Knock ignition limit low #1
+Knock retard high
+Knock sensor enabled
+Long term fuel trim maximum
+MAF Load Limit
+Maximum plate deviation (P2101)
+Minimum IPW
+Misfire detection
+OBDII mode 9 support(Off=0,On=255)
+P1009 VTC over advanced error threshold angle
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+SWM9VINOUT
+Use MAP fuel tables
+VSA enabled
+VTC base duty cycle
+VTC decel fuel cut angle
+VTC I
+VTC P
+VTEC oil pressure switch enabled
+Water temperature ignition compensation hot high
+Wideband input(Off=0,On=12)
+Wideband input(Off=0,On=4)
+Wideband lambda
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #3

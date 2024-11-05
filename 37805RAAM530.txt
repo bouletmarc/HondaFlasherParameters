@@ -1,0 +1,14 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Idle Speed
+Ignition dwell angle voltage compensation
+Injector Voltage Compensation
+Post Start Idle Speed
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)

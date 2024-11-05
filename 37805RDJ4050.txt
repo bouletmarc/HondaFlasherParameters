@@ -1,0 +1,36 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+EGR enabled
+EGR flow malfunction (P0400)
+Idle Speed
+Injector Voltage Compensation
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Minimum IPW
+Post Start Idle Speed
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+VTEC oil pressure switch enabled

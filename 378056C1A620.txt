@@ -1,0 +1,53 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #5
+Coolant thermostat temperature check enabled (P0128)
+EGR enabled
+ELD enabled
+EPS enabled
+Ethanol ignition compensation
+Forced induction enabled
+Idle Speed
+Immobilizer enabled(Off=0,On=6)
+Intake air system leak (P2279)
+Knock air limit #2
+Launch recover rpm #1
+Launch recover rpm #2
+MAF Load Limit
+MAP too low / too high enabled (P1127 P1128)
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Minimum MAP voltage
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Rev limiter #3
+Rev limiter recover #3
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter speed
+Speedlimiter
+TC boost command
+Torque Limit Warning
+Under boost error (P0299)
+Use AFM to determine WOT(Off=1,On=0)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC Engagement
+VTEC oil pressure switch enabled

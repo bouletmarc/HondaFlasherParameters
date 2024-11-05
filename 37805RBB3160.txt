@@ -1,0 +1,115 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Cam angle index high
+Cam angle index low
+Closed loop lean > rich delay
+Closed loop lean > rich reversal delay
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Coolant thermostat temperature check enabled (P0128)
+Cranking (batch mode) fuel direct ratio
+Cranking (seq mode) fuel direct ratio
+Cranking fuel trim
+EGR enabled
+EGR flow malfunction (P0400)
+High speed throttle reduction speed
+Idle speed (after start)
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector flow for fuel economy calc
+Injector opening time
+Injector phase (cruise)
+Injector phase (high load)
+Injector phase (VTC compensation)
+Injector phase (warm up)
+Injector phase (WOT)
+Injector Voltage Compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock sensitivity high
+Knock sensitivity low
+LAF voltage to lambda
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Long term fuel trim maximum
+Long term fuel trim minimum
+MAF Load Limit
+MAP WOT determination pressure
+Maximum plate deviation (P2101)
+Minimum IPW
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+System control register
+Target throttle plate
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+VTEC oil pressure switch enabled
+VTEC window pressure
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

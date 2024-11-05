@@ -1,0 +1,205 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+AccPed_nMinBrkApp_C
+AFM correction WOT
+AFM correction
+AFM flow
+After start fuel (split injection)
+After start fuel
+Air charge limit
+Air filter pressure drop
+Anti lag enabled
+Anti lag fuel cut rpm
+Anti lag ignition cut rpm
+Anti lag ignition target
+Anti lag retard rpm
+Anti lag target load
+Boost by ethanol limit
+Boost by gear by tune #1
+Boost by gear by tune #2
+Boost by gear by tune #3
+Boost by gear by tune #4
+Boost by gear by tune #5
+Catalyst protection temperature
+Catalyst purge max rpm
+Cranking fuel adjustment
+Demanded engine speed during high temperature
+DTC disable
+Engine speed limit at high engine temperature
+Engine speed limit for automatic transmission at fault of vehicle speed signal
+Ethanol fuel adjustment (ECT)
+Ethanol fuel adjustment (number of injections)
+Ethanol fuel multiplier
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled(Off=0,On=2)
+Ethanol percentage
+Exhaust cam (cold)
+Exhaust cam (spool cold)
+Exhaust cam (spool)
+Exhaust cam (VTEC cold)
+Exhaust cam (VTEC)
+Exhaust cam
+Fuel cutoff delay
+Fuel economy dash adj
+Fuel pressure (normal)
+Fuel pressure (split injection)
+Fuel pump compensation by rpm and duty
+Fuel pump minimum current
+Full throttle shift enabled
+Full throttle shift ignition cut rpm
+Full throttle shift ignition retard rpm
+Full throttle shift ignition target
+Full throttle shift minimum throttle
+Full throttle shift rpm limit
+Full throttle target load
+Higher engine speed limit at function request from customer service
+HLSDem_nMaxHiSprt_CUR
+HLSDem_nMaxHiTipp_CUR
+HLSDem_nMaxStd_CUR
+HLSDem_nMaxStdSprt_CUR
+HLSDem_nMaxStdTipp_CUR
+HPFP delay (battery voltage)
+HPFP feed forward gain
+HPFP feed forward offset
+HPFP integrator (delta pressure)
+HPFP integrator (rpm)
+HPFP proportional (delta pressure)
+HPFP proportional (rpm)
+Idle speed
+Ignition (ex cam +)
+Ignition (in cam -) (ex cam +)
+Ignition (in cam -)
+Ignition (in cam +)
+Ignition (VTEC) (ex cam +)
+Ignition (VTEC) (in cam -) (ex cam +)
+Ignition (VTEC) (in cam -)
+Ignition (VTEC) (in cam +)
+Immobilizer enabled
+Individual cylinder fuel trim
+Injector boost current (normal)
+Injector boost current (starting)
+Injector hold current max (normal)
+Injector hold current max (starting)
+Injector hold current min (normal)
+Injector hold current min (starting)
+Injector phase (SOI)
+Injector phase max angle
+Injector size
+Intake cam (cold)
+Intake cam (spool cold)
+Intake cam (spool)
+Intake cam (VTEC) (cold)
+Intake cam (VTEC)
+Intake cam
+Intercooler pressure drop
+Knock air charge reduction
+Knock window cylinder 1
+Knock window cylinder 2
+Knock window cylinder 3
+Knock window cylinder 4
+KRKATE
+Launch rpm #1
+Launch rpm #2
+Launch to full throttle shift transition speed
+Max engine speed limit at high oil temperature
+Max engine speed limitation request from Electrical Supply System
+Maximum air charge reduction for component protection
+Maximum boost pressure #1
+Maximum boost pressure #2
+Maximum cam overlap
+Maximum fuel pressure
+Maximum MAP pressure
+Maximum permissible engine speed (short increase)
+Maximum rpm for DTC clear
+Maximum TC pressure #1
+Maximum TC pressure #2
+Maximum TC pressure #3
+Maximum TC pressure ratio #1
+Maximum TC pressure ratio #2
+Min ECT for throttle learning
+Min IAT for throttle learning
+Min ignition ex adv
+Min ignition
+Minimum air charge in overrun
+Minimum fuel pressure
+Minimum injection time
+Minimum lambda (cat protect)
+Minimum MAP pressure
+Nominal charge
+Optimum torque
+Overall fuel trim(Off=0,On=3278)
+P0234 turbocharger overboost problem enabled(Off=65535,On=0)
+Radiator fan (high speed) off
+Radiator fan (high speed) on
+Radiator fan (low speed) off
+Radiator fan (low speed) on
+Reduced current maximum rpm
+Rev limiter (gear / ECT)
+Secondary oxygen sensor enabled
+Solenoid hold current
+Speed adjustment(Off=0,On=982)
+Speed limiter speed #1
+Speed limiter speed #2
+Speed limiter speed #3
+Split injection enabled(Off=1,On=65)
+Target lambda (after start)
+Target lambda (cat protect catalyst heating)
+Target lambda (cat protect)
+Target lambda (catalyst heating after start)
+Target lambda (catalyst heating)
+Target lambda (VTEC) (cat protect)
+Threshold for fuel pump air charge limit
+Threshold for maximum speed fault detection
+Torque 1st (comfort)
+Torque 1st (R mode)
+Torque 1st (sport)
+Torque 2nd (comfort)
+Torque 2nd (R mode)
+Torque 2nd (sport)
+Torque 3rd (comfort)
+Torque 3rd (R mode)
+Torque 3rd (sport)
+Torque 4th (comfort)
+Torque 4th (R mode)
+Torque 4th (sport)
+Torque 5th (comfort)
+Torque 5th (R mode)
+Torque 5th (sport)
+Torque 6th (comfort)
+Torque 6th (R mode)
+Torque 6th (sport)
+Torque limit #1
+Torque limit #2
+Traction Control change rate (decreasing)
+Traction Control change rate (increasing)
+Traction Control cornering comp value
+Traction Control D gain
+Traction Control D smoothing
+Traction Control enabled
+Traction Control I gain
+Traction Control ignition retard value
+Traction Control launch slip value (by tune)
+Traction Control launch slip value
+Traction Control minimum speed
+Traction Control P gain
+Traction Control target slip (by tune)
+Traction Control target slip
+Traction Control use cornering correction
+Traction Control use PID
+Turbo compressor efficiency
+Turbo max air charge (IAT)
+Turbo max air charge
+Turbo max ratio (PA) #1
+Turbo max ratio (PA) #2
+Turbo max ratio (PA) #3 #1
+Turbo max ratio (PA) #3 #2
+Turbo max ratio (PA) comp (IAT2)
+Turbo max ratio (temp) #2
+Turbo max ratio (temp)
+VTEC
+Warm up fuel (split injection)
+Warm up fuel
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####

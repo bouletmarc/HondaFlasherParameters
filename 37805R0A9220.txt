@@ -1,0 +1,69 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+Air temperature fuel compensation cranking
+Air temperature fuel compensation low flow
+Calibration ID
+Default PA value
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+Ignition dwell angle voltage compensation
+Ignition retard gear compensation
+Ignition retard throttle compensation
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+KWOT high
+KWOT low
+Launch rpm #1
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+OBDII mode 6 support(Off=0,On=255)
+OBDII mode 9 support(Off=0,On=255)
+Overrun cutoff MAP high cam hys high
+Overrun cutoff MAP high cam hys low
+Overrun cutoff MAP low cam hys high
+Overrun cutoff MAP low cam hys low
+Overrun fuel cut delay
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Secondary oxygen sensor enabled
+Target throttle plate
+TC boost command
+TC max boost (IAT) #1
+TC max boost (PA)
+TPlate Normal
+Turbo WOT judgment GAIRCYL table
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC decel fuel cut angle
+VTC I
+VTC P
+VTEC oil pressure switch enabled
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+WOT lambda adjustment high #1
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

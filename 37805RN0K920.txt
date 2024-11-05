@@ -1,0 +1,184 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Change per tuning cyle
+Active AFM fuel tuning enabled
+Active AFM Minimum lambda
+Active AFM Use corrected wideband
+Active AFM Use fuel trims
+Active AFN Use fuel trims
+Active fuel tuning enabled
+Active fuel tuning high #1
+Active fuel tuning high #2
+Active fuel tuning high #3
+Active fuel tuning high #4
+Active fuel tuning high #5
+Active fuel tuning low #1
+Active fuel tuning low #2
+Active fuel tuning low #3
+Active fuel tuning low #4
+Active fuel tuning low #5
+Active knock retard enabled
+Active knock retard high
+Active knock retard low
+Active knock retard max retard
+Active knock retard method
+Active knock retard min
+Active knock retard step
+AFM fuel
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Boost control activation pressure
+Boost control air temperature compensation
+Boost control duty lookup
+Boost control duty to pressure
+Boost control enabled
+Boost control fixed duty
+Boost control frequency
+Boost control max duty
+Boost control quick spool
+Boost control solenoid is normally open
+Boost control type
+Boost cut enabled
+Boost cut pressure
+Calibration ID
+Cam angle high
+Cam angle low
+Change per tuning cyle
+Closed loop target lambda
+Coolant thermostat temperature check enabled (P0128)
+Cranking fuel trim
+Delay after engine start
+Delay after injector re-start
+Driving recorder enabled(Off=35127,On=54814)
+ELD enabled
+Ethanol ECT cranking compensation
+Ethanol fuel compensation
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled(Off=0,On=60)
+Ethanol percentage
+EVAP VSV error check enabled (P0498 P0499)
+Flash check engine for knock enabled
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+Fuel Pressure
+Gear ignition compensation
+Idle Speed
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Injector size
+Injector Voltage Compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high #1
+Knock sensitivity high #2
+Knock sensitivity high cylinder 1-2
+Knock sensitivity high cylinder 3-4
+Knock sensitivity high
+Knock sensitivity low #1
+Knock sensitivity low #2
+Knock sensitivity low cylinder 1-2
+Knock sensitivity low cylinder 3-4
+Knock sensitivity low
+Knock sensor enabled
+Launch min rpm for ign retard and fuel enrichment
+Long term fuel trim error limit low
+MAP offset
+MAP scalar
+Maximum cam angle delta
+Maximum change
+Maximum ECT
+Maximum gear
+Maximum IAT
+Maximum lambda
+Maximum load delta
+Maximum load
+Maximum rpm delta
+Maximum rpm
+Maximum TPS
+Maximum VTC
+Minimum ECT for alternator control
+Minimum gear
+Minimum IAT
+Minimum IPW
+Minimum lambda
+Minimum load
+Minimum pressure for speed/density
+Minimum rpm
+Minimum TPS
+Minimum VTC
+Misfire detection
+Open loop
+Overall fuel trim
+PA sensor enabled
+Post Start Idle Speed
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Starter relay enabled
+Target lambda high
+Target lambda low
+TPlate Normal
+Traction Control ignition retard value
+Traction control input(Off=0,On=4)
+Traction control input(Off=0,On=52)
+Traction control input(Off=0,On=6)
+Traction control minimum rpm
+Traction control voltage offset
+Tuning method
+Update frequency
+Use corrected wideband
+Use fuel trims
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VTC enabled
+Water temperature ignition retard
+Wideband input(Off=0,On=12)
+Wideband input(Off=0,On=14)
+Wideband input(Off=0,On=52)
+Wideband lambda
+Wideband voltage input(Off=0,On=14)
+Wideband voltage offset
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

@@ -1,0 +1,426 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+5th gear rpm
+Active AFM Change per tuning cyle
+Active AFM Closed loop
+Active AFM Delay after engine start
+Active AFM Delay after injector re-start
+Active AFM Delay in lambda reading
+Active AFM Fuel Smoothing
+Active AFM fuel tuning enabled
+Active AFM Lambda target (closed loop)
+Active AFM Lambda target (open loop)
+Active AFM Maximum change
+Active AFM Maximum ECT
+Active AFM Maximum gear
+Active AFM Maximum IAT
+Active AFM Maximum lambda
+Active AFM Maximum load
+Active AFM Maximum rpm
+Active AFM Maximum TPS
+Active AFM Maximum VTC
+Active AFM Minimum ECT
+Active AFM Minimum gear
+Active AFM Minimum IAT
+Active AFM Minimum lambda
+Active AFM Minimum load
+Active AFM Minimum rpm
+Active AFM Minimum TPS
+Active AFM Minimum VTC
+Active AFM Open loop
+Active AFM Update frequency
+Active AFM Use corrected wideband
+Active AFM Use fuel trims
+Active AFN Use fuel trims
+Active Closed loop
+Active Fuel Smoothing
+Active fuel tuning enabled
+Active fuel tuning high #1
+Active fuel tuning high #2
+Active fuel tuning high #3
+Active fuel tuning high #4
+Active fuel tuning high #5
+Active fuel tuning low #1
+Active fuel tuning low #2
+Active fuel tuning low #3
+Active fuel tuning low #4
+Active fuel tuning low #5
+Active knock retard enabled
+Active knock retard high
+Active knock retard low
+Active knock retard max retard
+Active knock retard method
+Active knock retard min
+Active knock retard step
+AFM enabled
+AFM fuel
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM minimum voltage
+AFMPLS disengage rpm low
+After start fuel
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Boost control activation pressure(Off=504032,On=1)
+Boost control activation pressure
+Boost control air temperature compensation
+Boost control duty lookup
+Boost control duty to pressure
+Boost control enabled
+Boost control fixed duty
+Boost control frequency S2000
+Boost control frequency
+Boost control max duty
+Boost control quick spool
+Boost control solenoid is normally open
+Boost control type
+Boost cut enabled
+Boost cut pressure
+Calibration ID
+Cam angle high
+Cam angle low
+Change per tuning cyle
+Closed loop lean > rich delay
+Closed loop lean > rich reversal delay
+Closed loop rich > lean delay
+Closed loop rich > lean reversal delay
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128)
+Coolant thermostat temperature check enabled(P0128)
+Cranking (batch mode) fuel direct ratio
+Cranking (batch mode) wall deposit ratio
+Cranking (seq mode) fuel direct ratio
+Cranking (seq mode) wall deposit ratio
+Cranking fuel trim
+Cranking fuel
+Cruise control enabled(Off= 255, On= 16)
+Default PA value
+Delay after engine start
+Delay after injector re-start
+Delay in lambda reading
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+Engine oil pressure sensor enabled
+EPS enabled
+Ethanol ECT cranking compensation
+Ethanol fuel compensation
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled(Off=0,On=15)
+Ethanol input enabled(Off=0,On=60)
+Ethanol percentage
+EVAP FTP enabled(P0451 P0452 P0453 P1454) (RSSWGO91)
+EVAP leak detection enabled(P0455 P0456 P0457)
+EVAP VSV error check enabled(P0498 P0499)
+FCAN malfunction(U0073 U0155) enabled(Off=32767,On=4000)
+Flash alternator light when TC active
+Flash check engine for knock enabled
+Flash check engine for TC
+Forced induction enabled
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+Fuel Pressure
+Full throttle shift enabled
+Full throttle shift minimum throttle
+Full throttle shift rpm limit
+Gear ignition compensation
+High speed throttle reduction
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed minimum
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition IAT retard applied to ignition advance
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Injector opening time
+Injector phase (after start)
+Injector phase (high load)
+Injector phase (VTC compensation)
+Injector phase (WOT)
+Injector size
+Injector Voltage Compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high #1
+Knock sensitivity high #2
+Knock sensitivity high cylinder 1-2
+Knock sensitivity high cylinder 3-4
+Knock sensitivity high
+Knock sensitivity low #1
+Knock sensitivity low #2
+Knock sensitivity low cylinder 1-2
+Knock sensitivity low cylinder 3-4
+Knock sensitivity low
+Knock sensor enabled
+LAF voltage to lambda
+Lambda target (closed loop)
+Lambda target (open loop)
+Launch min rpm for ign retard and fuel enrichment
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm (adjustable)
+Launch rpm additional fuel
+Launch rpm disengage speed
+Launch rpm ign retard
+Long term fuel trim maximum
+MAP offset
+MAP scalar
+MAP too low / too high enabled(P1127 P1128)
+Mass or volume circuit range performance problem enabled(P0101)
+Maximum cam angle delta
+Maximum change
+Maximum ECT
+Maximum gear
+Maximum IAT
+Maximum lambda
+Maximum load delta
+Maximum load
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Maximum rpm delta
+Maximum rpm
+Maximum TPS
+Maximum VTC
+Minimum ECT for alternator control
+Minimum gear
+Minimum IAT
+Minimum IPW
+Minimum lambda
+Minimum load
+Minimum MAP voltage
+Minimum pressure for speed/density
+Minimum rpm
+Minimum TPS
+Minimum VTC
+Misfire detection
+Mode 6 CVN
+OBD MODE $01 PID $1C value | RSOBDREQ
+OBD region (0) | RSSWOBDCH enabled
+OBDII mode 6 support(Off=0,On=255)
+OBDII mode 9 support(Off=0,On=255)
+Open loop
+Overall fuel trim
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+P2263 boost problem enabled #1
+P2263 boost problem enabled #2
+P2263 boost problem enabled #3
+P2263 boost problem enabled #4
+P2263 boost problem enabled #5
+PA sensor enabled
+PA vs MAP error enabled(P2227)
+Pit lane speed limit enabled
+Pit lane speed limit speed
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Readiness codes enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+RSFIECUID5
+RSSWENGOILLIFE
+RSSWGO00AB
+RSSWGO13C
+RSSWGO14B
+RSSWGO45
+RSSWGO48S
+RSSWGO61AC
+RSSWGO61E
+RSSWGO63BL
+RSSWGO63BR
+RSSWGO63D
+RSSWGO67
+RSSWGOF121 Fuel level sensor error
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+SWM9VINOUT
+System control register 1
+Target lambda high
+Target lambda low
+Target throttle plate
+Throttle flow vs opening
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+TMNHDL
+Traction Control ignition retard value
+Traction control input(Off=0,On=4)
+Traction control input(Off=0,On=52)
+Traction control input(Off=0,On=6)
+Traction control minimum rpm
+Traction control voltage offset
+Tuning method
+Unknown DTC sensor #100 enabled
+Unknown DTC sensor #101 enabled
+Unknown DTC sensor #102 enabled
+Unknown DTC sensor #103 enabled
+Unknown DTC sensor #104 enabled
+Unknown DTC sensor #105 enabled
+Unknown DTC sensor #106 enabled
+Unknown DTC sensor #107 enabled
+Unknown DTC sensor #108 enabled
+Unknown DTC sensor #109 enabled
+Unknown DTC sensor #110 enabled
+Unknown DTC sensor #111 enabled
+Unknown DTC sensor #16 enabled
+Unknown DTC sensor #17 enabled
+Unknown DTC sensor #19 enabled
+Unknown DTC sensor #20 enabled
+Unknown DTC sensor #23 enabled
+Unknown DTC sensor #25 enabled
+Unknown DTC sensor #26 enabled
+Unknown DTC sensor #27 enabled
+Unknown DTC sensor #28 enabled
+Unknown DTC sensor #29 enabled
+Unknown DTC sensor #3 enabled
+Unknown DTC sensor #30 enabled
+Unknown DTC sensor #37 enabled
+Unknown DTC sensor #38 enabled
+Unknown DTC sensor #39 enabled
+Unknown DTC sensor #42 enabled
+Unknown DTC sensor #43 enabled
+Unknown DTC sensor #44 enabled
+Unknown DTC sensor #47 enabled
+Unknown DTC sensor #48 enabled
+Unknown DTC sensor #49 enabled
+Unknown DTC sensor #50 enabled
+Unknown DTC sensor #51 enabled
+Unknown DTC sensor #52 enabled
+Unknown DTC sensor #53 enabled
+Unknown DTC sensor #54 enabled
+Unknown DTC sensor #55 enabled
+Unknown DTC sensor #56 enabled
+Unknown DTC sensor #57 enabled
+Unknown DTC sensor #58 enabled
+Unknown DTC sensor #59 enabled
+Unknown DTC sensor #60 enabled
+Unknown DTC sensor #62 enabled
+Unknown DTC sensor #64 enabled
+Unknown DTC sensor #66 enabled
+Unknown DTC sensor #67 enabled
+Unknown DTC sensor #68 enabled
+Unknown DTC sensor #69 enabled
+Unknown DTC sensor #70 enabled
+Unknown DTC sensor #71 enabled
+Unknown DTC sensor #72 enabled
+Unknown DTC sensor #73 enabled
+Unknown DTC sensor #74 enabled
+Unknown DTC sensor #75 enabled
+Unknown DTC sensor #76 enabled
+Unknown DTC sensor #77 enabled
+Unknown DTC sensor #78 enabled
+Unknown DTC sensor #79 enabled
+Unknown DTC sensor #80 enabled
+Unknown DTC sensor #81 enabled
+Unknown DTC sensor #82 enabled
+Unknown DTC sensor #83 enabled
+Unknown DTC sensor #84 enabled
+Unknown DTC sensor #85 enabled
+Unknown DTC sensor #86 enabled
+Unknown DTC sensor #87 enabled
+Unknown DTC sensor #88 enabled
+Unknown DTC sensor #89 enabled
+Unknown DTC sensor #90 enabled
+Unknown DTC sensor #91 enabled
+Unknown DTC sensor #92 enabled
+Unknown DTC sensor #93 enabled
+Unknown DTC sensor #94 enabled
+Unknown DTC sensor #95 enabled
+Unknown DTC sensor #96 enabled
+Unknown DTC sensor #97 enabled
+Unknown DTC sensor #98 enabled
+Unknown DTC sensor #99 enabled
+Update frequency
+Use corrected wideband
+Use fuel trims
+Use MAP fuel tables
+Use speed/density (MAP) fuel tables
+VSA enabled
+VTC base duty cycle
+VTC decel fuel cut angle
+VTC enabled
+VTC I
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC Engagement
+VTEC gearshift delay
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+VTEC rpm window
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+Wideband input(Off=0,On=12)
+Wideband input(Off=0,On=14)
+Wideband input(Off=0,On=4)
+Wideband input(Off=0,On=52)
+Wideband lambda
+Wideband voltage input(Off=0,On=14)
+Wideband voltage offset
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+Zero VTC upon decel fuel cut(Off=9,On=9819)

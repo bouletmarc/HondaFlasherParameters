@@ -1,0 +1,80 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+Calibration ID
+CC gear ratio 1
+CC gear ratio 2
+Closed loop target lambda
+Coil test enabled (P351 P352 P353 P354)
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #1
+Coolant thermostat temperature check enabled (P0128) #2
+Coolant thermostat temperature check enabled (P0128) #3
+Default PA value
+EGR enabled
+ELD enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP leak detection enabled (P0457) #1
+EVAP leak detection enabled (P0457) #2
+EVAP VSV error check enabled (P0498 P0499)
+Evaporative Emission Canister Purge Valve Circuit (P0443)
+Forced induction enabled
+Fuel economy alternator control
+Idle speed (after start)
+Idle speed (normal)
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Injector Voltage Compensation
+Intake air system leak (P2279)
+Knock sensor enabled
+LAF voltage to lambda
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+MAP offset(Off=0,On=6)
+MAP scalar(Off=0,On=0)
+MAP too low / too high enabled (P1127 P1128)
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum air temperature for alternator control
+Minimum ECT for alternator control
+Minimum MAP voltage
+Misfire detection
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+TPlate Normal
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled
+VTEC oil pressure switch enabled
+Write security word #1
+Write security word #2
+Write security word #3

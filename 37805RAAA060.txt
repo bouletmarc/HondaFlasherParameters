@@ -1,0 +1,14 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Cruise control enabled(Off=255,On=1)
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+Ignition dwell angle voltage compensation
+Injector Voltage Compensation
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)

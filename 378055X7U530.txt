@@ -1,0 +1,7 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Ignition dwell angle voltage compensation
+Injector Voltage Compensation

@@ -1,0 +1,182 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+1st gear throttle dampening enabled(Off=32767,On=5)
+Active AFM Open loop
+AFM enabled
+After start fuel
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Calibration ID
+Closed loop lean > rich delay
+Closed loop lean > rich reversal delay
+Closed loop rich > lean delay
+Closed loop rich > lean reversal delay
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Coolant thermostat temperature check enabled (P0128) #3
+Coolant thermostat temperature check enabled (P0128)
+Coolant thermostat temperature check enabled(P0128)
+Cranking (batch mode) fuel direct ratio
+Cranking (batch mode) wall deposit ratio
+Cranking (seq mode) fuel direct ratio
+Cranking (seq mode) wall deposit ratio
+Cranking fuel
+Cruise control enabled(Off=255,On=1)
+Cruise control enabled(Off=255,On=16)
+EGR enabled
+EGR flow malfunction(P0400) enabled
+ELD enabled
+EPS enabled
+EVAP FTP enabled(P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP VSV error check enabled(P0498 P0499)
+Forced induction enabled
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+High speed throttle reduction
+Idle fuel table rpm low
+Ignition dwell angle voltage compensation
+Ignition dwell angle
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Injector opening time
+Injector phase (high load)
+Injector phase (VTC compensation)
+Injector phase (WOT)
+Injector Voltage Compensation
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high
+Knock sensitivity low
+Knock sensor enabled
+LAF voltage to lambda
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+MAP too low / too high enabled (P1127 P1128)
+Mass or volume circuit range performance problem enabled(P0101)
+Maximum plate deviation (P2101)
+Minimum ignition high
+Minimum ignition low
+Minimum IPW
+Misfire detection enabled
+Misfire detection
+OBD MODE $01 PID $1C value
+OBD region(0
+Open loop
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+PA vs MAP error enabled(P2227)
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Radiator fan off
+Readiness codes enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+RSFIECUID5 enabled
+RSSWENGOILLIFE enabled
+RSSWGO00AB enabled
+RSSWGO13C enabled
+RSSWGO14B enabled
+RSSWGO45 enabled
+RSSWGO48S enabled
+RSSWGO61AC enabled
+RSSWGO61E enabled
+RSSWGO63BL enabled
+RSSWGO63BR enabled
+RSSWGO63D enabled
+RSSWGO67 enabled
+RSSWGO67
+RSSWGOF121 enabled
+RSSWGOF322 enabled
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+System control register 1
+Throttle flow vs opening
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+TMNHDL
+Unknown Sensors1 enabled
+Unknown Sensors10 enabled
+Unknown Sensors11 enabled
+Unknown Sensors12 enabled
+Unknown Sensors13 enabled
+Unknown Sensors2 enabled
+Unknown Sensors3 enabled
+Unknown Sensors4 enabled
+Unknown Sensors5 enabled
+Unknown Sensors6 enabled
+Unknown Sensors7 enabled
+Unknown Sensors8 enabled
+Unknown Sensors9 enabled
+Use MAP to determine WOT(Off=1,On=0)
+Use second coolant temperature sensor for fan control(Off=242,On=248)
+VSA enabled
+VTC enabled
+VTEC oil pressure switch enabled
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation hot high
+WOT Determiniation 1(TPS)
+WOT Determiniation 2(TPS)
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+Write security word #2

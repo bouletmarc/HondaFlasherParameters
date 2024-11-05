@@ -1,0 +1,45 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Minimum TPS
+AFM enabled
+Boost pressure reverse lookup
+CAIN angle map
+Calibration ID
+Enable lambda tach display
+EPS enabled
+Ethanol input enabled
+Forced induction enabled
+Idle Speed
+Idle stop enabled
+Knock sensor enabled
+Launch rpm disengage speed
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speedlimiter
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Target RPM (no load) for throttle
+TC boost command
+Traction Control use cornering correction
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC Engagement
+VTEC oil pressure switch enabled

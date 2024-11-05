@@ -1,0 +1,27 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Cranking (seq mode) fuel direct ratio
+Delay after engine start
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel economy alternator control
+High speed throttle reduction speed
+Idle Speed
+MAF Load Limit
+Post Start Idle Speed
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+System control register
+Traction Control use cornering correction
+VTEC Engagement
+Zero VTC upon decel fuel cut(Off=9,On=9819)

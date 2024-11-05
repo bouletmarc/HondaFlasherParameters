@@ -1,0 +1,41 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Air temperature fuel compensation cranking
+Boost cut enabled
+Boost cut pressure
+Cranking (seq mode) fuel direct ratio
+Cranking fuel trim
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel Pressure
+High speed throttle reduction speed
+Idle Speed
+Ignition IAT retard applied to ignition advance
+Injector size
+MAF Load Limit
+MAP offset
+MAP scalar
+Minimum pressure for speed/density
+Overall fuel trim
+Post Start Idle Speed
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+System control register
+Traction Control use cornering correction
+Use MAP fuel tables
+VTEC Engagement
+VTEC oil pressure switch enabled
+Wideband lambda
+Wideband voltage input(Off=0,On=12)
+Wideband voltage offset
+Zero VTC upon decel fuel cut(Off=9,On=9819)

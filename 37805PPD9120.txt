@@ -1,0 +1,38 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Calibration ID
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+KWOT high
+KWOT low
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Maximum plate deviation (P2101)
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Speed limiter rpm
+Speed limiter speed
+WOT lambda adjustment high #1
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

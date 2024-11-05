@@ -1,0 +1,8 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Ignition dwell angle voltage compensation
+Speed limiter rpm
+Speed limiter speed

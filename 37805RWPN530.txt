@@ -1,0 +1,181 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active fuel tuning enabled
+Active fuel tuning high #1
+Active fuel tuning high #2
+Active fuel tuning high #3
+Active fuel tuning high #4
+Active fuel tuning high #5
+Active fuel tuning low #1
+Active fuel tuning low #2
+Active fuel tuning low #3
+Active fuel tuning low #4
+Active fuel tuning low #5
+Active knock retard enabled
+Active knock retard high
+Active knock retard low
+Active knock retard max retard
+Active knock retard method
+Active knock retard min
+Active knock retard step
+AF learned value maximum
+AF learned value minimum
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Boost control activation pressure
+Boost control air temperature compensation
+Boost control duty lookup
+Boost control duty to pressure
+Boost control enabled
+Boost control fixed duty
+Boost control frequency
+Boost control max duty
+Boost control quick spool
+Boost control solenoid is normally open
+Boost control type
+Boost cut enabled
+Boost cut pressure
+Calibration ID
+Cam angle high
+Cam angle low
+Change per tuning cyle
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Coolant thermostat temperature check enabled (P0128) #3
+Cranking (seq mode) fuel direct ratio
+Cranking fuel trim
+Default PA value
+Delay after engine start
+Delay after injector re-start
+EGR enabled
+EPS enabled
+Ethanol ECT cranking compensation
+Ethanol fuel compensation
+Ethanol ignition compensation
+Ethanol ignition multiplier
+Ethanol input enabled(Off=0,On=60)
+Ethanol percentage
+Fuel high #1
+Fuel high #2
+Fuel high #3
+Fuel high #4
+Fuel high #5
+Fuel low #1
+Fuel low #2
+Fuel low #3
+Fuel low #4
+Fuel low #5
+Fuel Pressure
+Gear ignition compensation
+Ignition dwell angle voltage compensation
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Individual cylinder fuel trim
+Injector size
+Knock gate end high
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensitivity high
+Knock sensitivity low
+Knock sensor enabled
+KWOT high
+KWOT low
+Maximum cam angle delta
+Maximum change
+Maximum ECT
+Maximum gear
+Maximum IAT
+Maximum lambda
+Maximum load delta
+Maximum load
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Maximum rpm delta
+Maximum rpm
+Maximum TPS
+Maximum VTC
+Minimum ECT for alternator control
+Minimum gear
+Minimum IAT
+Minimum lambda
+Minimum load
+Minimum MAP voltage
+Minimum pressure for speed/density
+Minimum rpm
+Minimum TPS
+Minimum VTC
+Open loop
+Overall fuel trim
+Overrun cutoff MAP high cam hys high
+Overrun cutoff MAP high cam hys low
+Overrun cutoff MAP low cam hys high
+Overrun cutoff MAP low cam hys low
+Overrun fuel cut delay
+Primary oxygen sensor enabled
+Secondary oxygen sensor enabled(Off=0,On=2)
+Secondary oxygen sensor enabled
+Start emissions reduction enabled
+Target lambda high
+Target lambda low
+Target throttle plate
+Throttle flow vs opening
+Tip in fuel throttle compensation
+Traction Control ignition retard value
+Traction control input(Off=0,On=52)
+Traction control minimum rpm
+Traction control voltage offset
+Tuning method
+Update frequency
+Use corrected wideband
+Use fuel trims
+Use MAP fuel tables
+Use MAP to determine WOT(Off=1,On=0)
+VTEC oil pressure switch enabled
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+Wideband input(Off=0,On=12)
+Wideband input(Off=0,On=52)
+Wideband lambda
+Wideband voltage offset
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment high (cat protect)
+WOT lambda adjustment high (regular)
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+WOT lambda adjustment low (cat protect)
+WOT lambda adjustment low (regular)

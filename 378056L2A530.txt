@@ -1,0 +1,52 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage
+AFM minimum voltage
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #5
+Closed loop target lambda
+EGR enabled
+ELD enabled
+EPS enabled
+Ethanol ignition compensation
+Forced induction enabled
+High speed throttle reduction speed
+Idle Speed
+Initial knock control multiplier
+Initial knock control value
+Knock air limit #1
+Knock air limit #2
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+MAF Load Limit
+MAP too low / too high enabled (P1127 P1128)
+Minimum MAP voltage
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speedlimiter
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

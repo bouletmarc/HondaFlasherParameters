@@ -1,0 +1,25 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Cold start idle air control system (P050A, P050B)
+ELD enabled
+Idle Speed
+MAF Load Limit
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Speedlimiter
+Use MAP to determine WOT(Off=1,On=0)
+VTEC Engagement

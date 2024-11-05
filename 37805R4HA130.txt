@@ -1,0 +1,53 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Maximum gear
+Active AFM Open loop
+Active AFM Use fuel trims
+Active AFN Use fuel trims
+AFM enabled
+Auto stop/start enabled
+Boost pressure reverse lookup
+CAIN angle map
+Calibration ID
+Coolant thermostat temperature check enabled (P0128)
+EGR enabled
+ELD enabled
+EPS enabled
+Ethanol input enabled
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle Speed
+Immobilizer enabled(Off=0,On=6)
+Knock sensor enabled
+Launch rpm disengage speed
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Misfire detection
+Open loop
+Post Start Idle Speed
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speedlimiter
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Target RPM (no load) for throttle
+TC boost command
+Traction Control enabled
+Under boost error (P0299)
+Use fuel trims
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC Engagement
+VTEC oil pressure switch enabled

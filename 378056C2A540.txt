@@ -1,0 +1,51 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #5
+EGR enabled
+ELD enabled
+Engine oil pressure sensor enabled
+EPS enabled
+Ethanol ignition compensation
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle Speed
+Immobilizer enabled(Off=0,On=6)
+Individual cylinder fuel trim
+Knock air limit #2
+Knock sensor enabled
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan speed 2 off threshold
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter speed
+Speedlimiter
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+TC boost command
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC Engagement
+VTEC oil pressure switch enabled
+VTEC rpm window

@@ -1,0 +1,360 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+AFM flow
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Air temperature ignition compensation high (MAP>70 kPa)
+Air temperature ignition compensation low (MAP<70 kPa)
+Calibration ID
+Cam angle high
+Cam angle index high
+Cam angle index low
+Cam angle low
+CC gear ratio 1
+CC gear ratio 2
+Closed loop derivative term for PID
+Closed loop integral term for PID
+Closed loop proportion term for PID
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Coil test enabled (P351 P352 P353 P354)
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #1
+Coolant thermostat temperature check enabled (P0128) #2
+Coolant thermostat temperature check enabled (P0128) #3
+Cranking fuel
+CVNRPM speed
+Default PA value
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP leak detection enabled (P0457) #1
+EVAP leak detection enabled (P0457) #2
+EVAP VSV error check enabled (P0498 P0499)
+Evaporative Emission Canister Purge Valve Circuit (P0443)
+Final drive ratio
+Forced induction enabled
+Fuel (B) direct ratio hi
+Fuel (B) direct ratio lo
+Fuel economy alternator control
+Gear ratios
+High speed throttle reduction speed
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed (after start)
+Idle speed (normal)
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition high #1
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Ignition low #1
+Ignition low #2
+Ignition low #3
+Ignition low #4
+Ignition low #5
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Immobilizer enabled(Off=0)
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector Flow #1
+Injector Flow #2
+Injector Flow #3
+Injector Flow #4
+Injector Flow #5
+Injector Flow (Large) #1
+Injector Flow (Large) #2
+Injector Flow (Large) #3
+Injector Flow (Large) #4
+Injector Flow (Large) #5
+Injector opening time
+Injector phase (WOT)
+Injector Voltage Compensation
+Intake air system leak (P2279)
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Knock retard low
+Knock sensor enabled
+LAF voltage to lambda
+Long term fuel trim error limit high
+Long term fuel trim error limit low
+Long term fuel trim maximum
+Long term fuel trim minimum
+MAP offset(Off=0,On=6)
+MAP scalar(Off=0,On=0)
+MAP too low / too high enabled (P1127 P1128)
+MAP WOT determination pressure
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum air temperature for alternator control
+Minimum ECT for alternator control
+Minimum MAP voltage
+Minimum throttle opening compensation
+Misfire detection
+Overrev rpm
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+Overrun throttle opening (rev hang) enabled(Off=160,On=137)
+P0420 Catalytic efficiency error enabled(Off=32767,On=688)
+P1009 VTC over advanced error threshold angle
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #1
+RPM for target VTC on decel
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim maximum
+Short term fuel trim minimum
+Speed adjustment (ECU)
+Start emissions reduction enabled
+Throttle flow vs opening
+Throttle/brake max something
+Throttle/brake max speed
+TPlate Normal
+TPS WOT determination high
+TPS WOT determination low
+Unknown DTC sensor #1 enabled
+Unknown DTC sensor #10 enabled
+Unknown DTC sensor #100 enabled
+Unknown DTC sensor #101 enabled
+Unknown DTC sensor #102 enabled
+Unknown DTC sensor #103 enabled
+Unknown DTC sensor #104 enabled
+Unknown DTC sensor #105 enabled
+Unknown DTC sensor #106 enabled
+Unknown DTC sensor #107 enabled
+Unknown DTC sensor #108 enabled
+Unknown DTC sensor #109 enabled
+Unknown DTC sensor #11 enabled
+Unknown DTC sensor #110 enabled
+Unknown DTC sensor #111 enabled
+Unknown DTC sensor #112 enabled
+Unknown DTC sensor #113 enabled
+Unknown DTC sensor #114 enabled
+Unknown DTC sensor #115 enabled
+Unknown DTC sensor #116 enabled
+Unknown DTC sensor #117 enabled
+Unknown DTC sensor #118 enabled
+Unknown DTC sensor #119 enabled
+Unknown DTC sensor #12 enabled
+Unknown DTC sensor #120 enabled
+Unknown DTC sensor #121 enabled
+Unknown DTC sensor #122 enabled
+Unknown DTC sensor #123 enabled
+Unknown DTC sensor #124 enabled
+Unknown DTC sensor #125 enabled
+Unknown DTC sensor #126 enabled
+Unknown DTC sensor #127 enabled
+Unknown DTC sensor #128 enabled
+Unknown DTC sensor #129 enabled
+Unknown DTC sensor #13 enabled
+Unknown DTC sensor #130 enabled
+Unknown DTC sensor #131 enabled
+Unknown DTC sensor #132 enabled
+Unknown DTC sensor #133 enabled
+Unknown DTC sensor #134 enabled
+Unknown DTC sensor #135 enabled
+Unknown DTC sensor #136 enabled
+Unknown DTC sensor #137 enabled
+Unknown DTC sensor #138 enabled
+Unknown DTC sensor #139 enabled
+Unknown DTC sensor #14 enabled
+Unknown DTC sensor #140 enabled
+Unknown DTC sensor #141 enabled
+Unknown DTC sensor #142 enabled
+Unknown DTC sensor #143 enabled
+Unknown DTC sensor #144 enabled
+Unknown DTC sensor #145 enabled
+Unknown DTC sensor #146 enabled
+Unknown DTC sensor #147 enabled
+Unknown DTC sensor #148 enabled
+Unknown DTC sensor #149 enabled
+Unknown DTC sensor #15 enabled
+Unknown DTC sensor #150 enabled
+Unknown DTC sensor #151 enabled
+Unknown DTC sensor #152 enabled
+Unknown DTC sensor #153 enabled
+Unknown DTC sensor #154 enabled
+Unknown DTC sensor #155 enabled
+Unknown DTC sensor #156 enabled
+Unknown DTC sensor #157 enabled
+Unknown DTC sensor #158 enabled
+Unknown DTC sensor #159 enabled
+Unknown DTC sensor #16 enabled
+Unknown DTC sensor #160 enabled
+Unknown DTC sensor #161 enabled
+Unknown DTC sensor #162 enabled
+Unknown DTC sensor #163 enabled
+Unknown DTC sensor #164 enabled
+Unknown DTC sensor #165 enabled
+Unknown DTC sensor #166 enabled
+Unknown DTC sensor #167 enabled
+Unknown DTC sensor #168 enabled
+Unknown DTC sensor #169 enabled
+Unknown DTC sensor #17 enabled
+Unknown DTC sensor #170 enabled
+Unknown DTC sensor #171 enabled
+Unknown DTC sensor #172 enabled
+Unknown DTC sensor #173 enabled
+Unknown DTC sensor #174 enabled
+Unknown DTC sensor #175 enabled
+Unknown DTC sensor #176 enabled
+Unknown DTC sensor #177 enabled
+Unknown DTC sensor #178 enabled
+Unknown DTC sensor #179 enabled
+Unknown DTC sensor #18 enabled
+Unknown DTC sensor #180 enabled
+Unknown DTC sensor #181 enabled
+Unknown DTC sensor #182 enabled
+Unknown DTC sensor #183 enabled
+Unknown DTC sensor #19 enabled
+Unknown DTC sensor #2 enabled
+Unknown DTC sensor #20 enabled
+Unknown DTC sensor #21 enabled
+Unknown DTC sensor #22 enabled
+Unknown DTC sensor #23 enabled
+Unknown DTC sensor #24 enabled
+Unknown DTC sensor #25 enabled
+Unknown DTC sensor #26 enabled
+Unknown DTC sensor #27 enabled
+Unknown DTC sensor #28 enabled
+Unknown DTC sensor #29 enabled
+Unknown DTC sensor #3 enabled
+Unknown DTC sensor #30 enabled
+Unknown DTC sensor #31 enabled
+Unknown DTC sensor #32 enabled
+Unknown DTC sensor #33 enabled
+Unknown DTC sensor #34 enabled
+Unknown DTC sensor #35 enabled
+Unknown DTC sensor #36 enabled
+Unknown DTC sensor #37 enabled
+Unknown DTC sensor #38 enabled
+Unknown DTC sensor #39 enabled
+Unknown DTC sensor #4 enabled
+Unknown DTC sensor #40 enabled
+Unknown DTC sensor #41 enabled
+Unknown DTC sensor #42 enabled
+Unknown DTC sensor #43 enabled
+Unknown DTC sensor #44 enabled
+Unknown DTC sensor #45 enabled
+Unknown DTC sensor #46 enabled
+Unknown DTC sensor #47 enabled
+Unknown DTC sensor #48 enabled
+Unknown DTC sensor #49 enabled
+Unknown DTC sensor #5 enabled
+Unknown DTC sensor #50 enabled
+Unknown DTC sensor #51 enabled
+Unknown DTC sensor #52 enabled
+Unknown DTC sensor #53 enabled
+Unknown DTC sensor #54 enabled
+Unknown DTC sensor #55 enabled
+Unknown DTC sensor #56 enabled
+Unknown DTC sensor #57 enabled
+Unknown DTC sensor #58 enabled
+Unknown DTC sensor #59 enabled
+Unknown DTC sensor #6 enabled
+Unknown DTC sensor #60 enabled
+Unknown DTC sensor #61 enabled
+Unknown DTC sensor #62 enabled
+Unknown DTC sensor #63 enabled
+Unknown DTC sensor #64 enabled
+Unknown DTC sensor #65 enabled
+Unknown DTC sensor #66 enabled
+Unknown DTC sensor #67 enabled
+Unknown DTC sensor #68 enabled
+Unknown DTC sensor #69 enabled
+Unknown DTC sensor #7 enabled
+Unknown DTC sensor #70 enabled
+Unknown DTC sensor #71 enabled
+Unknown DTC sensor #72 enabled
+Unknown DTC sensor #73 enabled
+Unknown DTC sensor #74 enabled
+Unknown DTC sensor #75 enabled
+Unknown DTC sensor #76 enabled
+Unknown DTC sensor #77 enabled
+Unknown DTC sensor #78 enabled
+Unknown DTC sensor #79 enabled
+Unknown DTC sensor #8 enabled
+Unknown DTC sensor #80 enabled
+Unknown DTC sensor #81 enabled
+Unknown DTC sensor #82 enabled
+Unknown DTC sensor #83 enabled
+Unknown DTC sensor #84 enabled
+Unknown DTC sensor #85 enabled
+Unknown DTC sensor #86 enabled
+Unknown DTC sensor #87 enabled
+Unknown DTC sensor #88 enabled
+Unknown DTC sensor #89 enabled
+Unknown DTC sensor #9 enabled
+Unknown DTC sensor #90 enabled
+Unknown DTC sensor #91 enabled
+Unknown DTC sensor #92 enabled
+Unknown DTC sensor #93 enabled
+Unknown DTC sensor #94 enabled
+Unknown DTC sensor #95 enabled
+Unknown DTC sensor #96 enabled
+Unknown DTC sensor #97 enabled
+Unknown DTC sensor #98 enabled
+Unknown DTC sensor #99 enabled
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled
+VTC max advance table
+VTC WOT high
+VTC WOT low
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+VTEC rpm window
+VTEC window pressure
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+Write security word #1
+Write security word #2
+Write security word #3

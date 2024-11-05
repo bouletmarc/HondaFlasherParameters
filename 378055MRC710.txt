@@ -1,0 +1,23 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Coolant thermostat temperature check enabled (P0128) #2
+Coolant thermostat temperature check enabled (P0128) #3
+Idle Speed
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Post Start Idle Speed
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Speedlimiter
+VTEC engage minimum speed
+VTEC Engagement

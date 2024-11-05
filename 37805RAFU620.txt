@@ -1,0 +1,12 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Cruise control enabled(Off=255,On=1)
+Ignition dwell angle voltage compensation
+Knock sensor enabled
+Purge/EVAP enabled
+Speed limiter rpm
+Speed limiter speed
+VSA enabled

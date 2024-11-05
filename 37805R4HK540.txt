@@ -1,0 +1,74 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Minimum load
+Advanced ethanol enabled
+AFM enabled
+Air temperature fuel compensation cranking
+Auto stop/start enabled
+Boost pressure reverse lookup
+CAIN angle map
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda low load
+Closed loop target lambda
+Cold start idle air control system (P050A, P050B)
+Coolant thermostat temperature check enabled (P0128) #3
+Coolant thermostat temperature check enabled (P0128)
+Cranking fuel pressure
+EGR enabled
+ELD enabled
+Engine oil level enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457) #1
+EVAP VSV error check enabled (P0498 P0499)
+Evaporative Emission System Purge Flow Malfunction (P145C)
+Forced induction enabled
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Intake air system leak (P2279)
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock sensor enabled
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum plate deviation (P2101)
+Misfire detection
+PA sensor enabled
+PA vs MAP error enabled (P2227)
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+RSSWGO45
+RSSWGO48S
+RSSWGO63BR
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Target RPM (no load) for throttle
+TC boost command
+TC max boost (IAT) #1
+TC max boost (PA)
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+UNKNOWN_A977
+Use AFM to determine WOT(Off=1,On=0)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTC enabled
+VTEC oil pressure switch enabled
+WOT lambda adjustment #1

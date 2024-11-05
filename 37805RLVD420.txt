@@ -1,0 +1,43 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM enabled
+AFM maximum voltage
+AFM minimum voltage
+Calibration ID
+Coolant thermostat temperature check enabled (P0128) #3
+Coolant thermostat temperature check enabled (P0128)
+EGR enabled
+EGR flow malfunction (P0400)
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457) #1
+EVAP leak detection enabled (P0457)
+Evaporative Emission System Purge Flow Malfunction (P145C)
+Intake air system leak (P2279)
+Launch rpm #1
+Launch rpm #2
+Launch rpm recover #1
+Launch rpm recover #2
+Mass or volume circuit range performance problem enabled (P0101)
+Maximum MAP voltage
+Minimum MAP voltage
+PA sensor enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Start emissions reduction enabled
+TPlate Normal
+Use MAP to determine WOT(Off=1,On=0)
+VTC enabled
+VTEC oil pressure switch enabled
+Water temperature ignition retard

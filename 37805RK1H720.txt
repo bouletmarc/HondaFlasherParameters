@@ -1,0 +1,12 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Coolant thermostat temperature check enabled (P0128) #1
+Cranking (seq mode) fuel direct ratio
+Fuel direct ratio hi
+Fuel direct ratio lo
+High speed throttle reduction speed
+Traction Control use cornering correction
+Zero VTC upon decel fuel cut(Off=9,On=9819)

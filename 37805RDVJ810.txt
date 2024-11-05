@@ -1,0 +1,8 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Speed limiter rpm
+Speed limiter speed
+Use MAP to determine WOT(Off=1,On=0)

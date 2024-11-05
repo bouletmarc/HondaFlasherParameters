@@ -1,0 +1,81 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda low load
+Cranking fuel trim
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+High speed throttle reduction speed
+Idle speed (normal)
+Ignition dwell angle voltage compensation
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock ignition limit low #3
+Knock ignition limit low #4
+Knock ignition limit low #5
+Knock retard high
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Secondary oxygen sensor enabled
+Target throttle plate
+TC max boost (IAT) #1
+TC max boost (PA)
+Throttle index calculation
+TPS WOT determination high
+TPS WOT determination low
+Turbo WOT judgment GAIRCYL table
+Unknown DTC sensor #1 enabled
+Unknown DTC sensor #10 enabled
+Unknown DTC sensor #11 enabled
+Unknown DTC sensor #12 enabled
+Unknown DTC sensor #13 enabled
+Unknown DTC sensor #14 enabled
+Unknown DTC sensor #15 enabled
+Unknown DTC sensor #16 enabled
+Unknown DTC sensor #17 enabled
+Unknown DTC sensor #18 enabled
+Unknown DTC sensor #19 enabled
+Unknown DTC sensor #2 enabled
+Unknown DTC sensor #20 enabled
+Unknown DTC sensor #21 enabled
+Unknown DTC sensor #22 enabled
+Unknown DTC sensor #23 enabled
+Unknown DTC sensor #24 enabled
+Unknown DTC sensor #25 enabled
+Unknown DTC sensor #26 enabled
+Unknown DTC sensor #27 enabled
+Unknown DTC sensor #28 enabled
+Unknown DTC sensor #29 enabled
+Unknown DTC sensor #3 enabled
+Unknown DTC sensor #30 enabled
+Unknown DTC sensor #4 enabled
+Unknown DTC sensor #5 enabled
+Unknown DTC sensor #6 enabled
+Unknown DTC sensor #7 enabled
+Unknown DTC sensor #8 enabled
+Unknown DTC sensor #9 enabled
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC oil pressure switch enabled
+Write security word #1
+Write security word #2
+Write security word #3

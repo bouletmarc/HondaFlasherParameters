@@ -1,0 +1,88 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+AFM flow
+AFM maximum voltage error enabled(Off=2047,On=1002)
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Calibration ID
+Closed loop target lambda
+Cranking fuel trim
+CVNRPM speed
+Default PA value
+EGR enabled
+ELD enabled
+EPS enabled
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle fuel table rpm high
+Idle fuel table rpm low
+Idle speed (after start)
+Ignition dwell angle voltage compensation
+Immobilizer enabled(Off=0,On=4)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Injector Flow #1
+Injector Flow #2
+Injector Flow #3
+Injector Flow #4
+Injector Flow #5
+Injector Flow (Large) #1
+Injector Flow (Large) #2
+Injector Flow (Large) #3
+Injector Flow (Large) #4
+Injector Flow (Large) #5
+Injector opening time
+Knock sensor enabled
+KWOT high
+KWOT low
+LAF voltage to lambda
+MAP WOT determination pressure
+Maximum MAP voltage
+Maximum plate deviation (P2101)
+Minimum MAP voltage
+Misfire detection
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan off
+Radiator fan on
+Rev limiter #1
+Rev limiter #3
+RSSWGO67
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed #1
+Speed limiter speed
+Target VTC on decel
+Throttle/brake max rpm
+Throttle/brake max something
+Throttle/brake max speed
+TPlate Normal (US)
+TPlate Normal
+TPS WOT determination high
+TPS WOT determination low
+Use MAP to determine WOT(Off=1,On=0)
+VTEC disengage minimum speed
+VTEC engage minimum speed
+VTEC minimum coolant temperature
+VTEC oil pressure switch enabled
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition retard
+Write security word #1
+Write security word #2
+Write security word #3

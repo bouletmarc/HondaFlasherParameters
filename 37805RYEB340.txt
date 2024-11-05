@@ -1,0 +1,16 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+Active AFM Closed loop
+Active knock retard enabled
+Cranking (seq mode) fuel direct ratio
+ELD enabled
+Fuel direct ratio hi
+Fuel direct ratio lo
+Fuel economy alternator control
+High speed throttle reduction speed
+System control register
+Traction Control use cornering correction
+Zero VTC upon decel fuel cut(Off=9,On=9819)

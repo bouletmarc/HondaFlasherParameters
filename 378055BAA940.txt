@@ -1,0 +1,68 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM maximum voltage
+AFM minimum voltage
+Air temperature fuel compensation cranking
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #5
+Cam angle intake WOT
+Default PA value
+EGR enabled
+ELD enabled
+EPS enabled
+Ethanol ignition compensation
+EVAP leak detection enabled (P0455 P0456 P0457)
+EVAP VSV error check enabled (P0498 P0499)
+Forced induction enabled
+Idle Speed
+Ignition dwell angle voltage compensation
+Immobilizer enabled(Off=0,On=6)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Knock air limit #1
+Knock air limit #2
+Launch recover rpm #1
+Launch recover rpm #2
+Lean best torque high
+MAF Load Limit
+MAP too low / too high enabled (P1127 P1128)
+Minimum MAP voltage
+Minimum TC sensor voltage
+Misfire detection
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+Secondary oxygen sensor enabled
+Soot generation limit CAIN angle table
+Speed limiter speed
+Speedlimiter
+Target RPM (no load) for throttle
+TC boost command
+TC max boost (IAT) #1
+TC max boost (PA)
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC Engagement
+VTEC oil pressure switch enabled
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

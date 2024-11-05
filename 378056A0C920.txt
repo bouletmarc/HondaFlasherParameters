@@ -1,0 +1,196 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+ABS enabled
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+Air temperature fuel compensation cranking
+Air temperature ignition compensation (MAP high)
+Air temperature ignition compensation (MAP low)
+Boost pressure reverse lookup
+Calibration ID
+Cam angle exhaust limit #1
+Cam angle exhaust limit #2
+Cam angle exhaust limit #3
+Cam angle exhaust limit #4
+Cam angle exhaust limit #5
+Cam angle exhaust WOT
+Cam angle intake WOT
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Coolant thermostat temperature check enabled (P0128)
+Cranking fuel pressure
+Default PA value
+Digital AFM flow
+Direct injector Flow #1
+Direct injector Flow #2
+Direct injector Flow #3
+Direct injector Flow #4
+Direct injector Flow #5
+Direct injector Flow (Large) #1
+Direct injector Flow (Large) #2
+Direct injector Flow (Large) #3
+Direct injector Flow (Large) #4
+Direct injector Flow (Large) #5
+Driving force MT
+EGR enabled
+EGR Ignition high
+EGR Ignition low
+ELD enabled
+EPS enabled
+Ethanol ignition compensation
+Ethanol input enabled
+EVAP VSV error check enabled (P0498 P0499)
+EWG low voltage error threshold hiss high
+EWG low voltage error threshold hiss lo
+EWG lower limit voltage
+EWG out of range upper limit voltage
+EWG upper limit voltage
+F / S detection already during KIGKNA assignment value
+Forced induction enabled
+Fuel pump drive angle #1
+Fuel pump drive angle #2
+Fuel pump drive angle #3
+Fuel pump drive angle #4
+Fuel pump drive angle #5
+Full throttle shift enabled
+High speed throttle reduction speed
+Idle speed (after start)
+Idle speed (normal)
+Idle Speed
+Ignition dwell angle voltage compensation
+IGRLMTETACH
+Immobilizer enabled(Off=0,On=6)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Initial knock control multiplier
+Injector phase (WOT)
+KIGKNA lower limit value of the learning value
+KIGKNA upper limit value of the learning value
+Knock air limit #2
+Knock air limit high #1
+Knock air limit high #2
+Knock air limit low #1
+Knock air limit low #2
+Knock ignition limit #2
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit low #1
+Knock ignition limit low #2
+Knock retard high
+Knock retard
+Knock sensor enabled
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+Lean best torque high
+Lean best torque low
+Long term fuel trim maximum
+Long term fuel trim minimum
+MAF Load Limit
+Mass or volume circuit range performance problem enabled (P0101)
+Max discharge rate
+Maximum MAP voltage
+Minimum MAP voltage
+Misfire detection
+Overrun cutoff MAP (cut)
+Overrun cutoff MAP (recover)
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+PA sensor enabled
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Radiator fan speed 1 off threshold
+Radiator fan speed 1 on threshold
+Radiator fan speed 2 off threshold
+Radiator fan speed 2 on threshold
+Rev limiter #1
+Rev limiter #2
+Rev limiter recover #1
+Rev limiter recover #2
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+RSSWGO61AC
+RSSWGO63D
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim maximum
+Short term fuel trim minimum
+Soot generation limit CAEX angle table
+Soot generation limit CAIN angle table
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+Start of injection table 2
+Target discharge amount I
+Target discharge amount P
+Target fuel pressure map (high water temp)
+Target fuel pressure map (low water temp)
+Target fuel pressure map 3 #1
+Target fuel pressure map 3 #2
+Target fuel pressure map 3
+Target fuel pressure map 4
+Target fuel pressure map 5
+Target RPM (no load) for throttle
+TC boost command
+TC max boost (EGT) #1
+TC max boost (EGT) #2
+TC max boost (EGT) #3
+TC max boost (EGT) #4
+TC max boost (EGT) #5
+TC max boost (IAT) #1
+TC max boost (IAT) #2
+TC max boost (PA)
+TC max boost(IAT2) #1
+TC max boost(IAT2) #2
+TC max boost(IAT2) #3
+TC max boost(IAT2) #4
+TC max boost(IAT2) #5
+TC max boost(PA)
+TC maximum pressure ratio #1
+TC maximum pressure ratio #2
+Throttle flow vs opening
+Torque Limit Warning
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+Use AFM to determine WOT(Off=1,On=0)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC Engagement
+VTEC oil pressure switch enabled
+VTEC rpm window
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+WOT determination (mg/cyl)
+WOT lambda adjustment #1
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+Write security word #1
+Write security word #2
+Write security word #3

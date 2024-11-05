@@ -1,0 +1,124 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AF learned value 1 minimum
+After start fuel
+Air temperature fuel compensation cranking
+Air temperature fuel compensation high flow
+Air temperature fuel compensation low flow
+Air temperature fuel compensation medium flow
+Boost control enabled
+Boost control fixed duty
+Boost control type
+Calibration ID
+Closed loop lean > rich delay
+Closed loop lean > rich reversal delay
+Closed loop rich > lean delay
+Closed loop rich > lean reversal delay
+Closed loop target lambda #1
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Coolant thermostat temperature check enabled (P0128) #3
+Coolant thermostat temperature check enabled (P0128)
+Cranking (batch mode) fuel direct ratio
+Cranking (batch mode) wall deposit ratio
+Cranking (seq mode) fuel direct ratio
+Cranking (seq mode) wall deposit ratio
+Cranking fuel
+Cruise control enabled(Off=255,On=1)
+EGR enabled
+EGR flow malfunction (P0400)
+ELD enabled
+EPS enabled
+EVAP FTP enabled (P0451 P0452 P0453 P1454)
+EVAP leak detection enabled (P0455 P0456 P0457)
+Forced induction enabled
+High speed throttle reduction
+Idle fuel table rpm high
+Idle speed (after start)
+Idle Speed
+Ignition retard gear compensation
+Ignition retard rpm compensation
+Ignition retard throttle compensation
+Individual cylinder fuel trim
+Injector opening time
+Injector phase (high load)
+Injector phase (VTC compensation)
+Injector phase (WOT)
+Injector Voltage Compensation
+Knock ignition limit high #2
+Knock retard high
+Knock sensor enabled
+LAF voltage to lambda
+Launch recover rpm #1
+Launch recover rpm #2
+Launch rpm #1
+Launch rpm #2
+Launch rpm disengage speed
+MAP scalar
+Mass or volume circuit range performance problem enabled (P0101)
+Minimum IPW
+Misfire detection
+Overrun cutoff MAP high cam (cut)
+Overrun cutoff MAP high cam (recover)
+Overrun cutoff MAP low cam (cut)
+Overrun cutoff MAP low cam (recover)
+Overrun fuel cut delay
+Overrun injector restart rpm (cut)
+Overrun injector restart rpm (recover)
+P0420 Malfunction Threshold
+P2263 boost problem enabled #5
+PA vs MAP error enabled (P2227)
+Post Start Idle Speed
+Primary oxygen sensor enabled
+Purge fuel
+Purge/EVAP enabled
+Rev limiter #1
+Rev limiter #2
+Rev limiter #3
+Rev limiter #4
+Rev limiter recover #1
+Rev limiter recover #2
+Rev limiter recover #3
+Rev limiter recover #4
+Revlimiter 1
+Revlimiter 2
+Revlimiter 3
+Revlimiter 4
+Revlimiter 5
+Revlimiter 6
+Revlimiter 7
+Revlimiter
+RSSWGOF121 Fuel level sensor error
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Speed limiter rpm
+Speed limiter speed
+Speedlimiter
+SWINJOK
+SWM9VINOUT
+Throttle flow vs opening
+Tip in fuel ECT compensation
+Tip in fuel throttle compensation
+TMNHDL
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTEC oil pressure switch enabled
+VTEC rpm window
+Water temperature fuel compensation cranking
+Water temperature fuel compensation high
+Water temperature fuel compensation low
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot low
+Water temperature ignition retard
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+Write security word #2

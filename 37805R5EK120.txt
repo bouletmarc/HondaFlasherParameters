@@ -1,0 +1,41 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+AFM fuel
+Air temperature fuel compensation cranking
+Boost cut enabled
+Boost cut pressure
+Cranking fuel trim
+Fuel high #1
+Fuel low #1
+Fuel Pressure
+Idle Speed
+Ignition dwell angle voltage compensation
+Ignition high #1
+Ignition IAT retard applied to ignition advance
+Ignition low #1
+Ignition low VCM
+Injector size
+Knock ignition limit high #1
+Knock ignition limit low #1
+Knock ignition limit low VCM
+Knock retard high
+Knock retard low VCM
+Knock retard low
+MAP offset
+MAP scalar
+Minimum pressure for speed/density
+Overall fuel trim
+Post Start Idle Speed
+Use MAP fuel tables
+Wideband lambda
+Wideband voltage input(Off=0,On=12)
+Wideband voltage offset
+WOT lambda adjustment high #1
+WOT lambda adjustment high #2
+WOT lambda adjustment high #3
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3

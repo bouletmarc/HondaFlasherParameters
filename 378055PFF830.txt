@@ -1,0 +1,98 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+AF learned value maximum
+AF learned value minimum
+AFM enabled
+Air temperature fuel compensation cranking
+Air temperature ignition compensation high (MAP>40 kPa)
+Air temperature ignition compensation low (MAP<40 kPa)
+Boost pressure reverse lookup
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda limit
+Closed loop target lambda low load
+Closed loop target lambda
+Digital AFM flow
+Econ button boost (Hondata mode) enabled
+Economy Torque limit
+EGR enabled
+EGR Ignition
+ELD enabled
+Engine oil pressure sensor enabled
+EPS enabled
+Forced induction enabled
+High speed throttle reduction speed
+Idle speed (after start)
+Idle speed (normal)
+Immobilizer enabled(Off=0,On=6)
+Individual cylinder fuel trim
+Individual cylinder ignition trim
+Initial knock control multiplier
+Knock air limit #1
+Knock air limit #2
+Knock air limit
+Knock ignition limit #1
+Knock ignition limit #2
+Knock ignition limit high #1
+Knock ignition limit high #2
+Knock ignition limit high
+Knock ignition limit
+Knock sensor enabled
+KWOT high
+KWOT low
+LAF voltage to lambda
+Lean best torque
+Long term fuel trim maximum
+Long term fuel trim minimum
+Maximum supercharging pressure calculation standard state atmospheric pressure for out
+Overrun fuel cut delay
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Second ECT sensor enabled
+Secondary oxygen sensor enabled
+Short term fuel trim maximum
+Short term fuel trim minimum
+Speed limiter rpm
+Speed limiter speed
+TC boost command
+TC max boost(IAT) #1
+TC max boost(IAT) #2
+TC max boost(IAT)
+TC max boost(IAT2) #1
+TC max boost(IAT2) #2
+TC max boost(IAT2) #3
+TC max boost(IAT2) #4
+TC max boost(IAT2) #5
+TC max boost(IAT2)
+TC max boost(IAT2)1
+TC max boost(IAT2)2
+TC max boost(IAT2)3
+TC max boost(IAT2)4
+TC max boost(PA)
+TC maximum pressure ratio #1
+TC maximum pressure ratio #2
+TC maximum pressure ratio
+Throttle flow vs opening
+Torque limit
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC enabled(Off=0,On=2)
+VTEC oil pressure switch enabled
+Water temperature ignition compensation cold high
+Water temperature ignition compensation cold low
+Water temperature ignition compensation hot high
+Water temperature ignition compensation hot low
+WOT determination (mg/cyl)
+WOT lambda adjustment low #1
+WOT lambda adjustment low #2
+WOT lambda adjustment low #3
+WOT lambda adjustment low
+WOT rich limit
+Write security word #1
+Write security word #2
+Write security word #3
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####

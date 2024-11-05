@@ -1,0 +1,38 @@
+#### ALL FULL DEFINITIONS PARAMETERS ####
+
+
+
+#### ALL GENERATED DEFINITIONS PARAMETERS ####
+CAIN angle map
+Calibration ID
+Closed loop target lambda high load
+Closed loop target lambda low load
+Cranking fuel trim
+EGR enabled
+ELD enabled
+EPS enabled
+Forced induction enabled
+Ignition high #2
+Ignition high #3
+Ignition high #4
+Ignition high #5
+Knock ignition limit high #2
+Knock ignition limit high #3
+Knock ignition limit high #4
+Knock ignition limit high #5
+LAF voltage to lambda
+Maximum plate deviation (P2101)
+PA sensor enabled
+Primary oxygen sensor enabled
+Purge/EVAP enabled
+Secondary oxygen sensor enabled
+TC max boost (IAT) #1
+TC max boost (PA)
+Turbo WOT judgment GAIRCYL table
+Under boost error (P0299)
+Use MAP to determine WOT(Off=1,On=0)
+VSA enabled
+VTC decel fuel cut angle
+VTC I
+VTC P
+VTEC oil pressure switch enabled
